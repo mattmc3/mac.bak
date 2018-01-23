@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/ru.keepcoder.Telegram.plist
+Library/Preferences/ru.keepcoder.Telegram.plist/**

@@ -1,0 +1,6 @@
+Library
+Library/Preferences
+Library/Preferences/com.vladalexa.MagicPrefs.MagicPrefsPlugins.plist
+Library/Preferences/com.vladalexa.MagicPrefs.MagicPrefsPlugins.plist/**
+Library/Preferences/com.vladalexa.MagicPrefs.plist
+Library/Preferences/com.vladalexa.MagicPrefs.plist/**

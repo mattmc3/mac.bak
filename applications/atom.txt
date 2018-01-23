@@ -1,0 +1,17 @@
+Library
+Library/Preferences
+Library/Preferences/com.github.atom.plist
+Library/Preferences/com.github.atom.plist/**
+.atom
+.atom/config.cson
+.atom/config.cson/**
+.atom/init.coffee
+.atom/init.coffee/**
+.atom/keymap.cson
+.atom/keymap.cson/**
+.atom/keymaps
+.atom/keymaps/**
+.atom/snippets.cson
+.atom/snippets.cson/**
+.atom/styles.less
+.atom/styles.less/**

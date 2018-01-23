@@ -1,0 +1,5 @@
+.workrave
+.workrave/id
+.workrave/id/**
+.workrave/historystats
+.workrave/historystats/**

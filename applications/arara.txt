@@ -1,0 +1,4 @@
+.araraconfig.yaml
+.araraconfig.yaml/**
+araraconfig.yaml
+araraconfig.yaml/**

@@ -1,0 +1,3 @@
+Library
+Library/Scripts
+Library/Scripts/**

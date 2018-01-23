@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Cyberduck
+Library/Application Support/Cyberduck/**
+Library/Preferences
+Library/Preferences/ch.sudo.cyberduck.plist
+Library/Preferences/ch.sudo.cyberduck.plist/**

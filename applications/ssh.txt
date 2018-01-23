@@ -1,0 +1,5 @@
+.ssh
+.ssh/config
+.ssh/config/**
+.ssh/authorized_keys
+.ssh/authorized_keys/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.beatport.BeatportPro.plist
+Library/Preferences/com.beatport.BeatportPro.plist/**

@@ -1,0 +1,15 @@
+Library
+Library/Application Support
+Library/Application Support/PokerStars
+Library/Application Support/PokerStars/**
+Library/Preferences
+Library/Preferences/com.pokerstars.user.ini
+Library/Preferences/com.pokerstars.user.ini/**
+Library/Preferences/com.pokerstars.PokerStars.plist
+Library/Preferences/com.pokerstars.PokerStars.plist/**
+Library/Application Support/PokerStarsEU
+Library/Application Support/PokerStarsEU/**
+Library/Preferences/com.pokerstars.eu.user.ini
+Library/Preferences/com.pokerstars.eu.user.ini/**
+Library/Preferences/com.pokerstars.PokerStarsEU.plist
+Library/Preferences/com.pokerstars.PokerStarsEU.plist/**

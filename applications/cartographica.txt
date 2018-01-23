@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Cartographica
+Library/Application Support/Cartographica/**
+Library/Preferences
+Library/Preferences/com.ClueTrust.Cartographica.plist
+Library/Preferences/com.ClueTrust.Cartographica.plist/**

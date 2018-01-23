@@ -1,0 +1,12 @@
+Library
+Library/Application Support
+Library/Application Support/Swinsian
+Library/Application Support/Swinsian/Library.sqlite
+Library/Application Support/Swinsian/Library.sqlite/**
+Library/Application Support/Swinsian/License.swinsianlicense
+Library/Application Support/Swinsian/License.swinsianlicense/**
+Library/Preferences
+Library/Preferences/com.swinsian.Swinsian.plist
+Library/Preferences/com.swinsian.Swinsian.plist/**
+Library/Preferences/com.swinsian.SwinsianDesktopWindow.plist
+Library/Preferences/com.swinsian.SwinsianDesktopWindow.plist/**

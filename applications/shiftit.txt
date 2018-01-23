@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.shiftitapp.ShiftIt.plist
+Library/Preferences/org.shiftitapp.ShiftIt.plist/**

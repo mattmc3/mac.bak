@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Charles
+Library/Application Support/Charles/**
+Library/Preferences
+Library/Preferences/com.xk72.charles.config
+Library/Preferences/com.xk72.charles.config/**

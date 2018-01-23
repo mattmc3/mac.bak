@@ -1,0 +1,15 @@
+Library
+Library/Application Support
+Library/Application Support/PremiumSoft CyberTech
+Library/Application Support/PremiumSoft CyberTech/**
+Library/Application Support/Navicat for MySQL
+Library/Application Support/Navicat for MySQL/**
+Library/Application Support/Navicat Premium
+Library/Application Support/Navicat Premium/**
+Library/Preferences
+Library/Preferences/com.prect.Navicat.plist
+Library/Preferences/com.prect.Navicat.plist/**
+Library/Preferences/com.prect.NavicatPremium.plist
+Library/Preferences/com.prect.NavicatPremium.plist/**
+Library/Preferences/com.prect.NavicatPremiumEssentials.plist
+Library/Preferences/com.prect.NavicatPremiumEssentials.plist/**

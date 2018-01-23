@@ -1,0 +1,13 @@
+Library
+Library/Application Support
+Library/Application Support/Dash
+Library/Application Support/Dash/library.dash
+Library/Application Support/Dash/library.dash/**
+Library/Application Support/Dash/License
+Library/Application Support/Dash/License/license.dash-license
+Library/Application Support/Dash/License/license.dash-license/**
+Library/Preferences
+Library/Preferences/com.kapeli.dash.plist
+Library/Preferences/com.kapeli.dash.plist/**
+Library/Preferences/com.kapeli.dashdoc.plist
+Library/Preferences/com.kapeli.dashdoc.plist/**

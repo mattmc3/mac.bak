@@ -1,0 +1,6 @@
+Library
+Library/Preferences
+Library/Preferences/net.poedit.Poedit.cfg
+Library/Preferences/net.poedit.Poedit.cfg/**
+Library/Preferences/net.poedit.Poedit.plist
+Library/Preferences/net.poedit.Poedit.plist/**

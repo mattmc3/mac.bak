@@ -1,0 +1,2 @@
+.phoenix.js
+.phoenix.js/**

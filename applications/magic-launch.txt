@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.metakine.magic-launch.agent.plist
+Library/Preferences/com.metakine.magic-launch.agent.plist/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.lightheadsw.Caffeine.plist
+Library/Preferences/com.lightheadsw.Caffeine.plist/**

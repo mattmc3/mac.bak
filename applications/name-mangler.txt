@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Name Mangler
+Library/Application Support/Name Mangler/**
+Library/Preferences
+Library/Preferences/com.manytricks.NameMangler.plist
+Library/Preferences/com.manytricks.NameMangler.plist/**

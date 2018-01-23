@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Typinator
+Library/Application Support/Typinator/**
+Library/Preferences
+Library/Preferences/com.macility.typinator2.plist
+Library/Preferences/com.macility.typinator2.plist/**

@@ -1,0 +1,6 @@
+.perltidyrc
+.perltidyrc/**
+.perlcriticrc
+.perlcriticrc/**
+.proverc
+.proverc/**

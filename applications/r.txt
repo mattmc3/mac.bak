@@ -1,0 +1,10 @@
+.R
+.R/**
+.Rhistory
+.Rhistory/**
+.Rprofile
+.Rprofile/**
+Library
+Library/Preferences
+Library/Preferences/org.R-project.R.plist
+Library/Preferences/org.R-project.R.plist/**

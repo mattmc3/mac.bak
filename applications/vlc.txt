@@ -1,0 +1,11 @@
+Library
+Library/Application Support
+Library/Application Support/org.videolan.vlc
+Library/Application Support/org.videolan.vlc/**
+Library/Preferences
+Library/Preferences/org.videolan.vlc
+Library/Preferences/org.videolan.vlc/**
+Library/Preferences/org.videolan.vlc.LSSharedFileList.plist
+Library/Preferences/org.videolan.vlc.LSSharedFileList.plist/**
+Library/Preferences/org.videolan.vlc.plist
+Library/Preferences/org.videolan.vlc.plist/**

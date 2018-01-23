@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/io.citruspi.Spotify-Notifications.plist
+Library/Preferences/io.citruspi.Spotify-Notifications.plist/**

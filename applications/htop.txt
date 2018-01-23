@@ -1,0 +1,6 @@
+.htoprc
+.htoprc/**
+.config
+.config/htop
+.config/htop/htoprc
+.config/htop/htoprc/**

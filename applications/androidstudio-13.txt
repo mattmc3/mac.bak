@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/AndroidStudio1.3
+Library/Application Support/AndroidStudio1.3/**
+Library/Preferences
+Library/Preferences/AndroidStudio1.3
+Library/Preferences/AndroidStudio1.3/**

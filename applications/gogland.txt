@@ -1,0 +1,9 @@
+Library
+Library/Preferences
+Library/Preferences/com.jetbrains.gogland-EAP.plist
+Library/Preferences/com.jetbrains.gogland-EAP.plist/**
+Library/Application Support
+Library/Application Support/Gogland1.0
+Library/Application Support/Gogland1.0/**
+Library/Preferences/Gogland1.0
+Library/Preferences/Gogland1.0/**

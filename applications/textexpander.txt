@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/TextExpander
+Library/Application Support/TextExpander/Settings.textexpander
+Library/Application Support/TextExpander/Settings.textexpander/**
+Library/Preferences
+Library/Preferences/com.smileonmymac.textexpander.plist
+Library/Preferences/com.smileonmymac.textexpander.plist/**

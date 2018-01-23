@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.bahoom.HyperSwitch.plist
+Library/Preferences/com.bahoom.HyperSwitch.plist/**

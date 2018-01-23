@@ -1,0 +1,5 @@
+Library
+Library/Application Support
+Library/Application Support/AUSkey
+Library/Application Support/AUSkey/keystore.xml
+Library/Application Support/AUSkey/keystore.xml/**

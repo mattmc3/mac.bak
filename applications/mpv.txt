@@ -1,0 +1,17 @@
+.config
+.config/mpv
+.config/mpv/mpv.conf
+.config/mpv/mpv.conf/**
+.config/mpv/scripts
+.config/mpv/scripts/**
+.config/mpv/input.conf
+.config/mpv/input.conf/**
+.config/mpv/watch_later
+.config/mpv/watch_later/**
+.mpv
+.mpv/channels.conf
+.mpv/channels.conf/**
+.mpv/config
+.mpv/config/**
+.mpv/input.conf
+.mpv/input.conf/**

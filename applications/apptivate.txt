@@ -1,0 +1,5 @@
+Library
+Library/Application Support
+Library/Application Support/Apptivate
+Library/Application Support/Apptivate/hotkeys
+Library/Application Support/Apptivate/hotkeys/**

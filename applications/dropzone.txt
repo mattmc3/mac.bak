@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Dropzone 3
+Library/Application Support/Dropzone 3/**
+Library/Preferences
+Library/Preferences/com.aptonic.Dropzone3.plist
+Library/Preferences/com.aptonic.Dropzone3.plist/**

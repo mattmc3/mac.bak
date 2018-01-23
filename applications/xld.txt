@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/XLD
+Library/Application Support/XLD/**
+Library/Preferences
+Library/Preferences/jp.tmkk.XLD.plist
+Library/Preferences/jp.tmkk.XLD.plist/**

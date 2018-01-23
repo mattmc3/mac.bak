@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.futureproof.awareness.plist
+Library/Preferences/com.futureproof.awareness.plist/**

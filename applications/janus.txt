@@ -1,0 +1,6 @@
+.janus
+.janus/**
+.vimrc.before
+.vimrc.before/**
+.vimrc.after
+.vimrc.after/**

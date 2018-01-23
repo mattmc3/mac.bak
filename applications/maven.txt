@@ -1,0 +1,5 @@
+.m2
+.m2/settings.xml
+.m2/settings.xml/**
+.m2/toolchains.xml
+.m2/toolchains.xml/**

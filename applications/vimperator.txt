@@ -1,0 +1,4 @@
+.vimperator
+.vimperator/**
+.vimperatorrc
+.vimperatorrc/**

@@ -1,0 +1,7 @@
+Library
+Library/Preferences
+Library/Preferences/com.araeliumgroup.querious.plist
+Library/Preferences/com.araeliumgroup.querious.plist/**
+Library/Application Support
+Library/Application Support/Querious
+Library/Application Support/Querious/**

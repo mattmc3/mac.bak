@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/com.bohemiancoding.sketch3
+Library/Application Support/com.bohemiancoding.sketch3/**
+Library/Preferences
+Library/Preferences/com.bohemiancoding.sketch3.plist
+Library/Preferences/com.bohemiancoding.sketch3.plist/**

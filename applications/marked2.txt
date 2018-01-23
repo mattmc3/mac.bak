@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Marked 2
+Library/Application Support/Marked 2/**
+Library/Preferences
+Library/Preferences/com.brettterpstra.marked2.plist
+Library/Preferences/com.brettterpstra.marked2.plist/**

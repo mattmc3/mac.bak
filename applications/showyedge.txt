@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.pqrs.ShowyEdge.plist
+Library/Preferences/org.pqrs.ShowyEdge.plist/**

@@ -1,0 +1,3 @@
+.gmvault
+.gmvault/gmvault_defaults.conf
+.gmvault/gmvault_defaults.conf/**

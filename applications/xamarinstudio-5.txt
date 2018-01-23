@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/XamarinStudio-5.0
+Library/Preferences/XamarinStudio-5.0/**

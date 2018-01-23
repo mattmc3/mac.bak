@@ -1,0 +1,4 @@
+.pentadactyl
+.pentadactyl/**
+.pentadactylrc
+.pentadactylrc/**

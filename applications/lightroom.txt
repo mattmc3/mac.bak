@@ -1,0 +1,12 @@
+Library
+Library/Application Support
+Library/Application Support/Adobe
+Library/Application Support/Adobe/Lightroom
+Library/Application Support/Adobe/Lightroom/**
+Library/Preferences
+Library/Preferences/com.adobe.Lightroom4.plist
+Library/Preferences/com.adobe.Lightroom4.plist/**
+Library/Preferences/com.adobe.Lightroom5.plist
+Library/Preferences/com.adobe.Lightroom5.plist/**
+Library/Preferences/com.adobe.Lightroom6.plist
+Library/Preferences/com.adobe.Lightroom6.plist/**

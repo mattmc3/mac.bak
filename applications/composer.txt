@@ -1,0 +1,7 @@
+.composer
+.composer/auth.json
+.composer/auth.json/**
+.composer/config.json
+.composer/config.json/**
+.composer/composer.json
+.composer/composer.json/**

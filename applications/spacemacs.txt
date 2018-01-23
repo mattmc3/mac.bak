@@ -1,0 +1,4 @@
+.spacemacs
+.spacemacs/**
+.spacemacs.d
+.spacemacs.d/**

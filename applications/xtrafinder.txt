@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.trankynam.XtraFinder.plist
+Library/Preferences/com.trankynam.XtraFinder.plist/**

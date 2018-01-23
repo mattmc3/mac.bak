@@ -1,0 +1,11 @@
+Library
+Library/Application Support
+Library/Application Support/Stata
+Library/Application Support/Stata/**
+Library/Preferences
+Library/Preferences/com.stata.stata12.plist
+Library/Preferences/com.stata.stata12.plist/**
+Library/Preferences/com.stata.stata13.plist
+Library/Preferences/com.stata.stata13.plist/**
+Library/Preferences/Stata 13 Preferences
+Library/Preferences/Stata 13 Preferences/**

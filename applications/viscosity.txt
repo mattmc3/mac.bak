@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/Viscosity
+Library/Application Support/Viscosity/OpenVPN
+Library/Application Support/Viscosity/OpenVPN/**
+Library/Preferences
+Library/Preferences/com.viscosityvpn.Viscosity.plist
+Library/Preferences/com.viscosityvpn.Viscosity.plist/**

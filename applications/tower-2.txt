@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/com.fournova.Tower2
+Library/Application Support/com.fournova.Tower2/**
+Library/Preferences
+Library/Preferences/com.fournova.Tower2.plist
+Library/Preferences/com.fournova.Tower2.plist/**

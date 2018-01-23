@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.oleganza.gitbox.plist
+Library/Preferences/com.oleganza.gitbox.plist/**

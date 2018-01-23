@@ -1,0 +1,4 @@
+.mackup.cfg
+.mackup.cfg/**
+.mackup
+.mackup/**

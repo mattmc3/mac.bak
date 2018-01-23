@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/appCode30
+Library/Application Support/appCode30/**
+Library/Preferences
+Library/Preferences/appCode30
+Library/Preferences/appCode30/**

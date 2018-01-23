@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/BBEdit
+Library/Application Support/BBEdit/**
+Library/Preferences
+Library/Preferences/com.barebones.bbedit.plist
+Library/Preferences/com.barebones.bbedit.plist/**

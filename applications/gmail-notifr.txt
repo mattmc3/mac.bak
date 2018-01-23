@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.ashchan.GmailNotifr.plist
+Library/Preferences/com.ashchan.GmailNotifr.plist/**

@@ -1,0 +1,4 @@
+Library
+Library/Application Support
+Library/Application Support/Atlantis
+Library/Application Support/Atlantis/**

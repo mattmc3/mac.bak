@@ -1,0 +1,10 @@
+Library
+Library/Application Support
+Library/Application Support/Royal TSX
+Library/Application Support/Royal TSX/License.xml
+Library/Application Support/Royal TSX/License.xml/**
+Library/Application Support/Royal TSX/UserPreferences.config
+Library/Application Support/Royal TSX/UserPreferences.config/**
+Library/Preferences
+Library/Preferences/com.lemonmojo.RoyalTSX.App.plist
+Library/Preferences/com.lemonmojo.RoyalTSX.App.plist/**

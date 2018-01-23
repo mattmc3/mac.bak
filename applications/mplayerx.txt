@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.niltsh.MPlayerX.plist
+Library/Preferences/org.niltsh.MPlayerX.plist/**

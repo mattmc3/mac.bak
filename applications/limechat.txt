@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/net.limechat.LimeChat-AppStore.plist
+Library/Preferences/net.limechat.LimeChat-AppStore.plist/**

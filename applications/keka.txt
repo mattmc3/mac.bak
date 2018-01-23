@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.aone.keka.plist
+Library/Preferences/com.aone.keka.plist/**

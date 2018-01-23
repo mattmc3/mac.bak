@@ -1,0 +1,31 @@
+.PyCharm40
+.PyCharm40/config
+.PyCharm40/config/**
+Library
+Library/Application Support
+Library/Application Support/PyCharm40
+Library/Application Support/PyCharm40/**
+Library/Preferences
+Library/Preferences/PyCharm40
+Library/Preferences/PyCharm40/**
+.PyCharm50
+.PyCharm50/config
+.PyCharm50/config/**
+Library/Application Support/PyCharm50
+Library/Application Support/PyCharm50/**
+Library/Preferences/PyCharm50
+Library/Preferences/PyCharm50/**
+.PyCharm2016.1
+.PyCharm2016.1/config
+.PyCharm2016.1/config/**
+.PyCharm2016.2
+.PyCharm2016.2/config
+.PyCharm2016.2/config/**
+Library/Application Support/PyCharm2016.1
+Library/Application Support/PyCharm2016.1/**
+Library/Application Support/PyCharm2016.2
+Library/Application Support/PyCharm2016.2/**
+Library/Preferences/PyCharm2016.1
+Library/Preferences/PyCharm2016.1/**
+Library/Preferences/PyCharm2016.2
+Library/Preferences/PyCharm2016.2/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.soggywaffles.Paintbrush.plist
+Library/Preferences/com.soggywaffles.Paintbrush.plist/**

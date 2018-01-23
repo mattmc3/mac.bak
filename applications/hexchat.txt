@@ -1,0 +1,3 @@
+.config
+.config/hexchat
+.config/hexchat/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/net.sourceforge.skim-app.skim.plist
+Library/Preferences/net.sourceforge.skim-app.skim.plist/**

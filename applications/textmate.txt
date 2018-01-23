@@ -1,0 +1,13 @@
+Library
+Library/Application Support
+Library/Application Support/TextMate
+Library/Application Support/TextMate/Managed
+Library/Application Support/TextMate/Managed/Bundles
+Library/Application Support/TextMate/Managed/Bundles/**
+Library/Preferences
+Library/Preferences/com.macromates.textmate.plist
+Library/Preferences/com.macromates.textmate.plist/**
+Library/Preferences/com.macromates.textmate.latex_config.plist
+Library/Preferences/com.macromates.textmate.latex_config.plist/**
+.tm_properties
+.tm_properties/**

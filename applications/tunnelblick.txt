@@ -1,0 +1,5 @@
+Library
+Library/Application Support
+Library/Application Support/Tunnelblick
+Library/Application Support/Tunnelblick/Configurations
+Library/Application Support/Tunnelblick/Configurations/**

@@ -1,0 +1,8 @@
+Library
+Library/Containers
+Library/Containers/com.if.Amphetamine
+Library/Containers/com.if.Amphetamine/Data
+Library/Containers/com.if.Amphetamine/Data/Library
+Library/Containers/com.if.Amphetamine/Data/Library/Preferences
+Library/Containers/com.if.Amphetamine/Data/Library/Preferences/com.if.Amphetamine.plist
+Library/Containers/com.if.Amphetamine/Data/Library/Preferences/com.if.Amphetamine.plist/**

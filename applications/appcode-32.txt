@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/AppCode32
+Library/Application Support/AppCode32/**
+Library/Preferences
+Library/Preferences/AppCode32
+Library/Preferences/AppCode32/**

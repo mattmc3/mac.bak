@@ -1,0 +1,4 @@
+.gconf
+.gconf/apps
+.gconf/apps/rhythmbox
+.gconf/apps/rhythmbox/**

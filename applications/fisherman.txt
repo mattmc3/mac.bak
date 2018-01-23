@@ -1,0 +1,6 @@
+.config
+.config/fisherman
+.config/fisherman/**
+.config/fish
+.config/fish/fishfile
+.config/fish/fishfile/**

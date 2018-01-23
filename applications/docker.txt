@@ -1,0 +1,5 @@
+.dockercfg
+.dockercfg/**
+.docker
+.docker/config.json
+.docker/config.json/**

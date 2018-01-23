@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/Shimo
+Library/Application Support/Shimo/ShimoProfiles.xml
+Library/Application Support/Shimo/ShimoProfiles.xml/**
+Library/Preferences
+Library/Preferences/com.chungwasoft.Shimo.plist
+Library/Preferences/com.chungwasoft.Shimo.plist/**

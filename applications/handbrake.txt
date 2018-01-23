@@ -1,0 +1,5 @@
+Library
+Library/Application Support
+Library/Application Support/HandBrake
+Library/Application Support/HandBrake/UserPresets.plist
+Library/Application Support/HandBrake/UserPresets.plist/**

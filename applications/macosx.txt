@@ -1,0 +1,9 @@
+.MacOSX
+.MacOSX/**
+Library
+Library/KeyBindings
+Library/KeyBindings/DefaultKeyBinding.dict
+Library/KeyBindings/DefaultKeyBinding.dict/**
+Library/Preferences
+Library/Preferences/com.apple.symbolichotkeys.plist
+Library/Preferences/com.apple.symbolichotkeys.plist/**

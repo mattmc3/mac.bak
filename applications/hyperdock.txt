@@ -1,0 +1,9 @@
+Library
+Library/Application Support
+Library/Application Support/HyperDock
+Library/Application Support/HyperDock/**
+Library/Preferences
+Library/Preferences/de.bahoom.HyperDock.plist
+Library/Preferences/de.bahoom.HyperDock.plist/**
+Library/Preferences/de.bahoom.HyperDock.prefpane.plist
+Library/Preferences/de.bahoom.HyperDock.prefpane.plist/**

@@ -1,0 +1,4 @@
+.bitchxrc
+.bitchxrc/**
+.ircservers
+.ircservers/**

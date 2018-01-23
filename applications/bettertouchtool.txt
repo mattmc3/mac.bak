@@ -1,0 +1,8 @@
+Library
+Library/Preferences
+Library/Preferences/com.hegenberg.BetterTouchTool.plist
+Library/Preferences/com.hegenberg.BetterTouchTool.plist/**
+Library/Application Support
+Library/Application Support/BetterTouchTool
+Library/Application Support/BetterTouchTool/bttdata2
+Library/Application Support/BetterTouchTool/bttdata2/**

@@ -1,0 +1,9 @@
+Library
+Library/Application Support
+Library/Application Support/ExpanDrive
+Library/Application Support/ExpanDrive/**
+Preferences
+Preferences/com.expandrive.ExpanDrive2.plist
+Preferences/com.expandrive.ExpanDrive2.plist/**
+Preferences/com.expandrive.ExpanDrive3.plist
+Preferences/com.expandrive.ExpanDrive3.plist/**

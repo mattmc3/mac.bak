@@ -1,0 +1,4 @@
+.pgpass
+.pgpass/**
+.psqlrc
+.psqlrc/**

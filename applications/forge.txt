@@ -1,0 +1,4 @@
+Library
+Library/Application Support
+Library/Application Support/Forge
+Library/Application Support/Forge/**

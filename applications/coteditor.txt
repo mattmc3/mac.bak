@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/CotEditor
+Library/Application Support/CotEditor/**
+Library/Preferences
+Library/Preferences/com.coteditor.CotEditor.plist
+Library/Preferences/com.coteditor.CotEditor.plist/**

@@ -1,0 +1,7 @@
+# Modify this file to add any rsync excludes here
+
+# exclude any directories we haven't already included
+- */
+
+# exclude any files we haven't explicitly included
+- *

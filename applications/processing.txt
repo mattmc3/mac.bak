@@ -1,0 +1,4 @@
+Library
+Library/Processing
+Library/Processing/preferences.txt
+Library/Processing/preferences.txt/**

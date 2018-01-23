@@ -1,0 +1,3 @@
+.pyradio
+.pyradio/stations.csv
+.pyradio/stations.csv/**

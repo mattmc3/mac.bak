@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/info.marcel-dierkes.KeepingYouAwake.plist
+Library/Preferences/info.marcel-dierkes.KeepingYouAwake.plist/**

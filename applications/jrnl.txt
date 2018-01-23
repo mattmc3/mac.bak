@@ -1,0 +1,2 @@
+.jrnl_config
+.jrnl_config/**

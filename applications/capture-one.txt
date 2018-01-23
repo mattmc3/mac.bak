@@ -1,0 +1,4 @@
+Library
+Library/Application Support
+Library/Application Support/Capture One
+Library/Application Support/Capture One/**

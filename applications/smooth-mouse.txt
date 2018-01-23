@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.cyberic.SmoothMouse.plist
+Library/Preferences/com.cyberic.SmoothMouse.plist/**

@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Hazel
+Library/Application Support/Hazel/**
+Library/Preferences
+Library/Preferences/com.noodlesoft.Hazel.plist
+Library/Preferences/com.noodlesoft.Hazel.plist/**

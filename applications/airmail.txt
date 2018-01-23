@@ -1,0 +1,5 @@
+Library
+Library/Containers
+Library/Containers/it.bloop.airmail2
+Library/Containers/it.bloop.airmail2/Container.plist
+Library/Containers/it.bloop.airmail2/Container.plist/**

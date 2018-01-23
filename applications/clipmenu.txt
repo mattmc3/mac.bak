@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/ClipMenu
+Library/Application Support/ClipMenu/**
+Library/Preferences
+Library/Preferences/com.naotaka.ClipMenu.plist
+Library/Preferences/com.naotaka.ClipMenu.plist/**

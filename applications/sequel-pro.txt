@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/Sequel Pro
+Library/Application Support/Sequel Pro/Data
+Library/Application Support/Sequel Pro/Data/**
+Library/Preferences
+Library/Preferences/com.sequelpro.SequelPro.plist
+Library/Preferences/com.sequelpro.SequelPro.plist/**

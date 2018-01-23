@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.LittleFin.DealAlert.plist
+Library/Preferences/com.LittleFin.DealAlert.plist/**

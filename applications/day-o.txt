@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.shauninman.Day-O.plist
+Library/Preferences/com.shauninman.Day-O.plist/**

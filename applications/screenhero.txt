@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.screenhero.screenhero.plist
+Library/Preferences/com.screenhero.screenhero.plist/**

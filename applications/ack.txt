@@ -1,0 +1,2 @@
+.ackrc
+.ackrc/**

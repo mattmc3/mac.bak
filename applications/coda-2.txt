@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Coda 2
+Library/Application Support/Coda 2/**
+Library/Preferences
+Library/Preferences/com.panic.Coda2.plist
+Library/Preferences/com.panic.Coda2.plist/**

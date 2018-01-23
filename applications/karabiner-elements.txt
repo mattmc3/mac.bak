@@ -1,0 +1,4 @@
+.config
+.config/karabiner
+.config/karabiner/karabiner.json
+.config/karabiner/karabiner.json/**

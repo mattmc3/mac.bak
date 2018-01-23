@@ -1,0 +1,7 @@
+.config
+.config/nvim
+.config/nvim/**
+.nvimrc
+.nvimrc/**
+.nvim
+.nvim/**

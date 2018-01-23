@@ -1,0 +1,7 @@
+Library
+Library/Preferences
+Library/Preferences/edu.ucsd.cs.mmccrack.bibdesk.plist
+Library/Preferences/edu.ucsd.cs.mmccrack.bibdesk.plist/**
+Library/Application Support
+Library/Application Support/BibDesk
+Library/Application Support/BibDesk/**

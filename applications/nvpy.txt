@@ -1,0 +1,2 @@
+.nvpy.cfg
+.nvpy.cfg/**

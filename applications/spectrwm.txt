@@ -1,0 +1,2 @@
+.spectrwm.conf
+.spectrwm.conf/**

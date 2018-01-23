@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/Ventrilo
+Library/Preferences/Ventrilo/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.divisiblebyzero.Spectacle.plist
+Library/Preferences/com.divisiblebyzero.Spectacle.plist/**

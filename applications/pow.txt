@@ -1,0 +1,6 @@
+.powconfig
+.powconfig/**
+.powenv
+.powenv/**
+.powrc
+.powrc/**

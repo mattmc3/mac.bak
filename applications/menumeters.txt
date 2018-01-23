@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.ragingmenace.MenuMeters.plist
+Library/Preferences/com.ragingmenace.MenuMeters.plist/**

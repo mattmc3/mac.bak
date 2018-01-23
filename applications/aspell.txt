@@ -1,0 +1,6 @@
+.aspell.conf
+.aspell.conf/**
+.aspell.en.prepl
+.aspell.en.prepl/**
+.aspell.en.pws
+.aspell.en.pws/**

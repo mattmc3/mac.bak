@@ -1,0 +1,12 @@
+Library
+Library/Preferences
+Library/Preferences/at.obdev.LittleSnitchNetworkMonitor.plist
+Library/Preferences/at.obdev.LittleSnitchNetworkMonitor.plist/**
+Library/Application Support
+Library/Application Support/Little Snitch
+Library/Application Support/Little Snitch/rules.usr.xpl
+Library/Application Support/Little Snitch/rules.usr.xpl/**
+Library/Application Support/Little Snitch/configuration.xpl
+Library/Application Support/Little Snitch/configuration.xpl/**
+Library/Application Support/Little Snitch/configuration.user.xpl
+Library/Application Support/Little Snitch/configuration.user.xpl/**

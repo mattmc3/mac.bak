@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.pilotmoon.scroll-reverser.plist
+Library/Preferences/com.pilotmoon.scroll-reverser.plist/**

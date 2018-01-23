@@ -1,0 +1,6 @@
+.gitkraken
+.gitkraken/**
+Library
+Library/Preferences
+Library/Preferences/com.axosoft.gitkraken.plist
+Library/Preferences/com.axosoft.gitkraken.plist/**

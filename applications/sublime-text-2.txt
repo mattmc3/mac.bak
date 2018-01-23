@@ -1,0 +1,11 @@
+Library
+Library/Application Support
+Library/Application Support/Sublime Text 2
+Library/Application Support/Sublime Text 2/Packages
+Library/Application Support/Sublime Text 2/Packages/User
+Library/Application Support/Sublime Text 2/Packages/User/**
+.config
+.config/sublime-text-2
+.config/sublime-text-2/Packages
+.config/sublime-text-2/Packages/User
+.config/sublime-text-2/Packages/User/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.clementine-player.Clementine.plist
+Library/Preferences/org.clementine-player.Clementine.plist/**

@@ -1,0 +1,14 @@
+Library
+Library/Preferences
+Library/Preferences/at.obdev.LaunchBar.plist
+Library/Preferences/at.obdev.LaunchBar.plist/**
+Library/Application Support
+Library/Application Support/LaunchBar
+Library/Application Support/LaunchBar/Actions
+Library/Application Support/LaunchBar/Actions/**
+Library/Application Support/LaunchBar/Snippets
+Library/Application Support/LaunchBar/Snippets/**
+Library/Application Support/LaunchBar/Configuration.plist
+Library/Application Support/LaunchBar/Configuration.plist/**
+Library/Application Support/LaunchBar/CustomShortcuts.plist
+Library/Application Support/LaunchBar/CustomShortcuts.plist/**

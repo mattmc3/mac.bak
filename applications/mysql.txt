@@ -1,0 +1,2 @@
+.my.cnf
+.my.cnf/**

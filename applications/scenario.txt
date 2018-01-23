@@ -1,0 +1,6 @@
+Library
+Library/Preferences
+Library/Preferences/com.lagente.scenario.plist
+Library/Preferences/com.lagente.scenario.plist/**
+Library/Scenario
+Library/Scenario/**

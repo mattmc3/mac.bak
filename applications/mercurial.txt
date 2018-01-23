@@ -1,0 +1,4 @@
+.hgrc
+.hgrc/**
+.hgignore_global
+.hgignore_global/**

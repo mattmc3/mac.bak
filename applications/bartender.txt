@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.surteesstudios.Bartender.plist
+Library/Preferences/com.surteesstudios.Bartender.plist/**

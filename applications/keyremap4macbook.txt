@@ -1,0 +1,10 @@
+Library
+Library/Preferences
+Library/Preferences/org.pqrs.KeyRemap4MacBook.plist
+Library/Preferences/org.pqrs.KeyRemap4MacBook.plist/**
+Library/Preferences/org.pqrs.KeyRemap4MacBook.multitouchextension.plist
+Library/Preferences/org.pqrs.KeyRemap4MacBook.multitouchextension.plist/**
+Library/Application Support
+Library/Application Support/KeyRemap4MacBook
+Library/Application Support/KeyRemap4MacBook/private.xml
+Library/Application Support/KeyRemap4MacBook/private.xml/**

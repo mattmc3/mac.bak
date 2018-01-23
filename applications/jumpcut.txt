@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Jumpcut
+Library/Application Support/Jumpcut/**
+Library/Preferences
+Library/Preferences/net.sf.Jumpcut.plist
+Library/Preferences/net.sf.Jumpcut.plist/**

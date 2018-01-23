@@ -1,0 +1,4 @@
+.ngrok
+.ngrok/**
+.ngrok2
+.ngrok2/**

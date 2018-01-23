@@ -1,0 +1,16 @@
+.aliases
+.aliases/**
+.bash_aliases
+.bash_aliases/**
+.bash_login
+.bash_login/**
+.bash_logout
+.bash_logout/**
+.bashrc
+.bashrc/**
+.profile
+.profile/**
+.bash_profile
+.bash_profile/**
+.inputrc
+.inputrc/**

@@ -1,0 +1,5 @@
+.newsbeuter
+.newsbeuter/config
+.newsbeuter/config/**
+.newsbeuter/urls
+.newsbeuter/urls/**

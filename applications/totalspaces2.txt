@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.binaryage.TotalSpaces2.plist
+Library/Preferences/com.binaryage.TotalSpaces2.plist/**

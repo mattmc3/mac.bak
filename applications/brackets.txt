@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Brackets
+Library/Application Support/Brackets/**
+Library/Preferences
+Library/Preferences/io.brackets.appshell.plist
+Library/Preferences/io.brackets.appshell.plist/**

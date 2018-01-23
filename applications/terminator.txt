@@ -1,0 +1,4 @@
+.config
+.config/terminator
+.config/terminator/config
+.config/terminator/config/**

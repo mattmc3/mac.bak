@@ -1,0 +1,2 @@
+.hyper.js
+.hyper.js/**

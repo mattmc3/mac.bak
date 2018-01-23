@@ -1,0 +1,5 @@
+Library
+Library/Application Support
+Library/Application Support/Code - Insiders
+Library/Application Support/Code - Insiders/User
+Library/Application Support/Code - Insiders/User/**

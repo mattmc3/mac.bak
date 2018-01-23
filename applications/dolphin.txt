@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Dolphin
+Library/Application Support/Dolphin/**
+Library/Preferences
+Library/Preferences/org.dolphin-emu.dolphin.plist
+Library/Preferences/org.dolphin-emu.dolphin.plist/**

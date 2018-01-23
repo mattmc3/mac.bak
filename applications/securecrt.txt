@@ -1,0 +1,9 @@
+Library
+Library/Application Support
+Library/Application Support/VanDyke
+Library/Application Support/VanDyke/SecureCRT
+Library/Application Support/VanDyke/SecureCRT/Config
+Library/Application Support/VanDyke/SecureCRT/Config/**
+Library/Preferences
+Library/Preferences/com.vandyke.SecureCRT.plist
+Library/Preferences/com.vandyke.SecureCRT.plist/**

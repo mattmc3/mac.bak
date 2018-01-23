@@ -1,0 +1,7 @@
+Library
+Library/Preferences
+Library/Preferences/com.uglyapps.Houdini.plist
+Library/Preferences/com.uglyapps.Houdini.plist/**
+Library/Application Support
+Library/Application Support/Houdini
+Library/Application Support/Houdini/**

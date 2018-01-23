@@ -1,0 +1,8 @@
+Library
+Library/Containers
+Library/Containers/com.microsoft.rdc.mac
+Library/Containers/com.microsoft.rdc.mac/Data
+Library/Containers/com.microsoft.rdc.mac/Data/Library
+Library/Containers/com.microsoft.rdc.mac/Data/Library/Preferences
+Library/Containers/com.microsoft.rdc.mac/Data/Library/Preferences/com.microsoft.rdc.mac.plist
+Library/Containers/com.microsoft.rdc.mac/Data/Library/Preferences/com.microsoft.rdc.mac.plist/**

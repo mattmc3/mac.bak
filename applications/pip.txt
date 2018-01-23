@@ -1,0 +1,3 @@
+.pip
+.pip/pip.conf
+.pip/pip.conf/**

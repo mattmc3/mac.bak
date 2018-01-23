@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.yukkurigames.Enjoyable.plist
+Library/Preferences/com.yukkurigames.Enjoyable.plist/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.eyebeam.SelfControl.plist
+Library/Preferences/org.eyebeam.SelfControl.plist/**

@@ -1,0 +1,4 @@
+.config
+.config/qutebrowser
+.config/qutebrowser/qutebrowser.conf
+.config/qutebrowser/qutebrowser.conf/**

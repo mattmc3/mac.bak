@@ -1,0 +1,5 @@
+.gitconfig
+.gitconfig/**
+git
+git/config
+git/config/**

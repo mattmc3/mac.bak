@@ -1,0 +1,2 @@
+.tvnamer.json
+.tvnamer.json/**

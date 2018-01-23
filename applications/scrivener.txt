@@ -1,0 +1,7 @@
+Library
+Library/Preferences
+Library/Preferences/com.literatureandlatte.scrivener2.plist
+Library/Preferences/com.literatureandlatte.scrivener2.plist/**
+Library/Application Support
+Library/Application Support/Scrivener
+Library/Application Support/Scrivener/**

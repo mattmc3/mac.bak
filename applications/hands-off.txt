@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.metakine.handsoff.plist
+Library/Preferences/com.metakine.handsoff.plist/**

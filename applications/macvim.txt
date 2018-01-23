@@ -1,0 +1,6 @@
+Library
+Library/Preferences
+Library/Preferences/org.vim.MacVim.LSSharedFileList.plist
+Library/Preferences/org.vim.MacVim.LSSharedFileList.plist/**
+Library/Preferences/org.vim.MacVim.plist
+Library/Preferences/org.vim.MacVim.plist/**

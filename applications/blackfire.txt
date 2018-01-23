@@ -1,0 +1,2 @@
+.blackfire.ini
+.blackfire.ini/**

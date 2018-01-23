@@ -1,0 +1,3 @@
+.config
+.config/nomacs
+.config/nomacs/**

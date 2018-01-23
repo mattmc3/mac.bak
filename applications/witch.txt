@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.manytricks.Witch.plist
+Library/Preferences/com.manytricks.Witch.plist/**

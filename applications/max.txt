@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.sbooth.Max.plist
+Library/Preferences/org.sbooth.Max.plist/**

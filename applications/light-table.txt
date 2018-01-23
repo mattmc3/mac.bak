@@ -1,0 +1,12 @@
+Library
+Library/Application Support
+Library/Application Support/LightTable
+Library/Application Support/LightTable/plugins
+Library/Application Support/LightTable/plugins/**
+Library/Application Support/LightTable/settings
+Library/Application Support/LightTable/settings/**
+Library/Application Support/LightTable/User
+Library/Application Support/LightTable/User/**
+Library/Preferences
+Library/Preferences/com.kodowa.LightTable.plist
+Library/Preferences/com.kodowa.LightTable.plist/**

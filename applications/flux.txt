@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/org.herf.Flux.plist
+Library/Preferences/org.herf.Flux.plist/**

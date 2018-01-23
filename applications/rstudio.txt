@@ -1,0 +1,6 @@
+.rstudio-desktop
+.rstudio-desktop/**
+Library
+Library/Preferences
+Library/Preferences/org.rstudio.RStudio.plist
+Library/Preferences/org.rstudio.RStudio.plist/**

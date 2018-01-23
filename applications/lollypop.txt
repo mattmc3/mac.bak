@@ -1,0 +1,4 @@
+.local
+.local/share
+.local/share/lollypop
+.local/share/lollypop/**

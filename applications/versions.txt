@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/Versions
+Library/Application Support/Versions/License
+Library/Application Support/Versions/License/**
+Library/Preferences
+Library/Preferences/com.blackpixel.versions.plist
+Library/Preferences/com.blackpixel.versions.plist/**

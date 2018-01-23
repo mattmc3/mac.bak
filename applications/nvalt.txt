@@ -1,0 +1,7 @@
+Library
+Library/Preferences
+Library/Preferences/net.elasticthreads.nv.plist
+Library/Preferences/net.elasticthreads.nv.plist/**
+Library/Application Support
+Library/Application Support/Notational Velocity
+Library/Application Support/Notational Velocity/**

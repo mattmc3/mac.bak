@@ -1,0 +1,5 @@
+.heroku
+.heroku/accounts
+.heroku/accounts/**
+.heroku/plugins
+.heroku/plugins/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/com.feedsapp.Feeds.plist
+Library/Preferences/com.feedsapp.Feeds.plist/**

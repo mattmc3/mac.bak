@@ -1,0 +1,10 @@
+.zshenv
+.zshenv/**
+.zprofile
+.zprofile/**
+.zshrc
+.zshrc/**
+.zlogin
+.zlogin/**
+.zlogout
+.zlogout/**

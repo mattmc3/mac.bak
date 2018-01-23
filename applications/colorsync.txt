@@ -1,0 +1,4 @@
+Library
+Library/ColorSync
+Library/ColorSync/Profiles
+Library/ColorSync/Profiles/**

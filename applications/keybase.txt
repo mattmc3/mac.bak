@@ -1,0 +1,3 @@
+.keybase
+.keybase/config.json
+.keybase/config.json/**

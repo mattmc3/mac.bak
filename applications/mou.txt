@@ -1,0 +1,9 @@
+Library
+Library/Preferences
+Library/Preferences/com.mouapp.Mou.plist
+Library/Preferences/com.mouapp.Mou.plist/**
+Library/Preferences/com.mouapp.Mou.LSSharedFileList.plist
+Library/Preferences/com.mouapp.Mou.LSSharedFileList.plist/**
+Library/Application Support
+Library/Application Support/Mou
+Library/Application Support/Mou/**

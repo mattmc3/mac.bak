@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/MacDive
+Library/Application Support/MacDive/**
+Library/Preferences
+Library/Preferences/com.mintsoftware.MacDive2.plist
+Library/Preferences/com.mintsoftware.MacDive2.plist/**

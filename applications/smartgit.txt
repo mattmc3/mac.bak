@@ -1,0 +1,5 @@
+Library
+Library/Preferences
+Library/Preferences/SmartGit
+Library/Preferences/SmartGit/smartgit.vmoptions
+Library/Preferences/SmartGit/smartgit.vmoptions/**

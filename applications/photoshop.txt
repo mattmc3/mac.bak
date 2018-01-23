@@ -1,0 +1,26 @@
+Library
+Library/Application Support
+Library/Application Support/Adobe
+Library/Application Support/Adobe/Adobe Photoshop CC 2013
+Library/Application Support/Adobe/Adobe Photoshop CC 2013/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2013/Presets/**
+Library/Application Support/Adobe/Adobe Photoshop CC 2014
+Library/Application Support/Adobe/Adobe Photoshop CC 2014/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2014/Presets/**
+Library/Application Support/Adobe/Adobe Photoshop CC 2015
+Library/Application Support/Adobe/Adobe Photoshop CC 2015/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2015/Presets/**
+Library/Application Support/Adobe/Adobe Photoshop CC 2015.5
+Library/Application Support/Adobe/Adobe Photoshop CC 2015.5/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2015.5/Presets/**
+Library/Preferences
+Library/Preferences/Adobe Photoshop CC 2013 Settings
+Library/Preferences/Adobe Photoshop CC 2013 Settings/**
+Library/Preferences/Adobe Photoshop CC 2014 Settings
+Library/Preferences/Adobe Photoshop CC 2014 Settings/**
+Library/Preferences/Adobe Photoshop CC 2015 Settings
+Library/Preferences/Adobe Photoshop CC 2015 Settings/**
+Library/Preferences/Adobe Photoshop CC 2015.5 Settings
+Library/Preferences/Adobe Photoshop CC 2015.5 Settings/**
+Library/Preferences/com.adobe.Photoshop.plist
+Library/Preferences/com.adobe.Photoshop.plist/**

@@ -1,0 +1,4 @@
+Library
+Library/Preferences
+Library/Preferences/ru.yandex.punto.plist
+Library/Preferences/ru.yandex.punto.plist/**

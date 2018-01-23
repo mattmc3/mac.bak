@@ -1,0 +1,6 @@
+Library
+Library/Gas Mask
+Library/Gas Mask/**
+Library/Preferences
+Library/Preferences/ee.clockwise.gmask.plist
+Library/Preferences/ee.clockwise.gmask.plist/**

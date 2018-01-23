@@ -1,0 +1,2 @@
+.adom.data
+.adom.data/**

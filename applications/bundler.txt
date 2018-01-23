@@ -1,0 +1,3 @@
+.bundle
+.bundle/config
+.bundle/config/**
