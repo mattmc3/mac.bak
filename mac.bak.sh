@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# mac.bak.sh v1.0
+# mac.bak.sh v1.0.1
 # author: mattmc3
 # revision: 2018-01-23
 
@@ -33,3 +33,5 @@ rsync -acvL --delete-excluded \
             --include-from="${rsync_appincludes}" \
             --include-from="${config_dir}/footer.txt" \
             "$HOME/" "$BACKUPDIR/"
+
+rm "${rsync_appincludes}"
