@@ -1,0 +1,14 @@
+# visual studio code
+
++ .config/
++ .config/sqlops/
++ .config/sqlops/User/
+- .config/sqlops/User/workspaceStorage/
++ .config/sqlops/User/**
+
++ Library/
++ Library/Application Support/
++ Library/Application Support/sqlops/
++ Library/Application Support/sqlops/User/
+- Library/Application Support/sqlops/User/workspaceStorage/
++ Library/Application Support/sqlops/User/**

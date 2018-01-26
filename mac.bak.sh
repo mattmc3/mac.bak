@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# mac.bak.sh v1.1
+# mac.bak.sh v1.1.1
 # author: mattmc3
 # revision: 2018-01-25
 
@@ -60,8 +60,14 @@ else
     app_dir="${app_dir}/${app_name}"
 fi
 
+# first run all backup.sh scripts
+if [[ -z $dry_run ]]; then
+    find "${app_dir}" -type f -name 'backup.sh' -exec {} \;
+else
+    echo "skipping backup.sh scripts for dry-run"
+fi
 
-# get all instructions files into one
+# get all rsync instructions files into one
 find "${app_dir}" -type f -name 'include-from.rsync' -exec cat {} \; > "${rsync_combined}.tmp"
 find "${custom_dir}" -type f -name 'include-from.rsync' -exec cat {} \; >> "${rsync_combined}.tmp"
 

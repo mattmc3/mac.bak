@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# mackup_to_rsync.sh v1.0
+# mackup_to_rsync.sh v1.0.1
 # author: mattmc3
 # revision: 2018-01-23
 
