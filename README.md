@@ -1,4 +1,6 @@
-# mac.bak Bash rsync backup utility to grab files off my Mac
+# mac.bak
+
+Bash rsync backup utility to grab files off my Mac
 
 ## What is it?
 
