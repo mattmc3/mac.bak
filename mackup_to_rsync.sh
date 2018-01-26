@@ -15,7 +15,7 @@ OUTDIR=${2%/}
 if [[ ! -d $MACKUPDIR ]]; then
     echo "You must supply a dir containing mackup .cfg files"
     exit 1
-elif [[ ! -d $OUTDIR ]]; then
+elif [[ -z $OUTDIR ]]; then
     echo "You must supply an output dir for mackup .cfg files to get converted"
     exit 1
 fi
@@ -23,7 +23,10 @@ fi
 
 function covert_cfg_to_rsync() {
     local cfg_file=$1
-    local rsync_file="${OUTDIR}/$(basename ${cfg_file%.*}).txt"
+    local rsync_dir="${OUTDIR}/$(basename ${cfg_file%.*})"
+    local rsync_file="${rsync_dir}/include-from.rsync"
+
+    mkdir -p "${rsync_dir}"
 
     # comment out anything that's not relevant to what we want to rsync
     # - Comments out headers (ie: [application], [configuration_files])
@@ -38,8 +41,8 @@ function covert_cfg_to_rsync() {
     # Rsync doesn't really care, so if we expand everything to treat it like
     # it's both a file and a directory we should be fine.
     #
-    # `awk '!/[^\#]/ || !seen[$0]++'` is a uniq trick without the need for a sort
-    # which ignores blank lines and comment lines
+    # `awk '!/[^\#]/ || !seen[$0]++'` is a uniq trick without the need for a
+    # sort which ignores blank lines and comment lines
     awk -F"/" '{
         p=""
         # expand each ancestor folder separately because rsync requires it
@@ -57,6 +60,7 @@ function covert_cfg_to_rsync() {
 
     # now, remove comments and blanks
     cat "$rsync_file.tmp2" | grep -Ev '(#.*$)|(^$)' > "$rsync_file"
+    # cat "$rsync_file.tmp2" > "$rsync_file"
 
     # clean up temp file(s)
     rm "$rsync_file.tmp"
