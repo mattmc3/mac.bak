@@ -28,7 +28,7 @@ code is well commented.
 
 ## Why
 
-Many other backup products work by makeng symlinks of files from your system
+Many other backup products work by making symlinks of files from your system
 some other location (like Dropbox) for an easy cloud-sync of your important Mac
 files. While this may work well for some, symlinking all your files has some
 drawbacks.
