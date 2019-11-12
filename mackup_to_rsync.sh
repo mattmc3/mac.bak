@@ -56,7 +56,7 @@ function covert_cfg_to_rsync() {
         else if( $0 !~ /^ *#/ ) {
             print $0 "/**";  # get everything under the dir specified
         }
-    }' "$rsync_file.tmp" | awk '!/[^\#]/ || !seen[$0]++' > "$rsync_file.tmp2"
+    }' "$rsync_file.tmp" | awk '!/[^#]/ || !seen[$0]++' > "$rsync_file.tmp2"
 
     # now, remove comments and blanks
     cat "$rsync_file.tmp2" | grep -Ev '(#.*$)|(^$)' > "$rsync_file"
@@ -70,5 +70,6 @@ function covert_cfg_to_rsync() {
 
 FILES="${MACKUPDIR}/*.cfg"
 for f in $FILES; do
+    echo "creating rsync file from mackup cfg for: ${f##*/}"
     covert_cfg_to_rsync $f
 done
