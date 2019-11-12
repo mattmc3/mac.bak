@@ -3,3 +3,5 @@
 git
 git/config
 git/config/**
+git/ignore
+git/ignore/**

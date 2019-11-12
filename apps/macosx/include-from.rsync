@@ -1,0 +1,18 @@
+.MacOSX
+.MacOSX/**
+Library
+Library/KeyBindings
+Library/KeyBindings/DefaultKeyBinding.dict
+Library/KeyBindings/DefaultKeyBinding.dict/**
+Library/PDF Services
+Library/PDF Services/**
+Library/Preferences
+Library/Preferences/com.apple.symbolichotkeys.plist
+Library/Preferences/com.apple.symbolichotkeys.plist/**
+Library/Scripts
+Library/Scripts/**
+Library/Speech
+Library/Speech/Speakable Items
+Library/Speech/Speakable Items/**
+Library/Workflows
+Library/Workflows/**

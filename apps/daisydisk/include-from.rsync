@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/DaisyDisk
+Library/Application Support/DaisyDisk/License.DaisyDisk
+Library/Application Support/DaisyDisk/License.DaisyDisk/**
+Library/Preferences
+Library/Preferences/com.daisydiskapp.DaisyDiskStandAlone.plist
+Library/Preferences/com.daisydiskapp.DaisyDiskStandAlone.plist/**

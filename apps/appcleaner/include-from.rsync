@@ -2,3 +2,5 @@ Library
 Library/Preferences
 Library/Preferences/net.freemacsoft.AppCleaner.plist
 Library/Preferences/net.freemacsoft.AppCleaner.plist/**
+Library/Preferences/net.freemacsoft.AppCleaner-SmartDelete.plist
+Library/Preferences/net.freemacsoft.AppCleaner-SmartDelete.plist/**

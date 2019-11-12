@@ -1,0 +1,5 @@
+.config
+.config/deepin
+.config/deepin/deepin-terminal
+.config/deepin/deepin-terminal/config.conf
+.config/deepin/deepin-terminal/config.conf/**

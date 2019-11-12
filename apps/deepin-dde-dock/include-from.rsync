@@ -1,0 +1,4 @@
+.config
+.config/deepin
+.config/deepin/dde-dock.conf
+.config/deepin/dde-dock.conf/**

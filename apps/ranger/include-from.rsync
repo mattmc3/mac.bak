@@ -1,0 +1,12 @@
+.config
+.config/ranger
+.config/ranger/commands.py
+.config/ranger/commands.py/**
+.config/ranger/rc.conf
+.config/ranger/rc.conf/**
+.config/ranger/rifle.conf
+.config/ranger/rifle.conf/**
+.config/ranger/scope.sh
+.config/ranger/scope.sh/**
+.config/ranger/plugins
+.config/ranger/plugins/**

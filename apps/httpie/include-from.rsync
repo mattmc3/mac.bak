@@ -1,0 +1,3 @@
+.httpie
+.httpie/config.json
+.httpie/config.json/**

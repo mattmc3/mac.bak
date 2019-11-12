@@ -1,0 +1,13 @@
+Library
+Library/Application Support
+Library/Application Support/MySQL
+Library/Application Support/MySQL/Workbench
+Library/Application Support/MySQL/Workbench/connections.xml
+Library/Application Support/MySQL/Workbench/connections.xml/**
+Library/Application Support/MySQL/Workbench/server_instances.xml
+Library/Application Support/MySQL/Workbench/server_instances.xml/**
+Library/Application Support/MySQL/Workbench/wb_options.xml
+Library/Application Support/MySQL/Workbench/wb_options.xml/**
+Library/Preferences
+Library/Preferences/com.oracle.mysql.workbench.plist
+Library/Preferences/com.oracle.mysql.workbench.plist/**

@@ -1,0 +1,9 @@
+.config
+.config/Typora
+.config/Typora/themes
+.config/Typora/themes/**
+Library
+Library/Application Support
+Library/Application Support/abnerworks.Typora
+Library/Application Support/abnerworks.Typora/themes
+Library/Application Support/abnerworks.Typora/themes/**

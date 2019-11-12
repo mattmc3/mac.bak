@@ -1,0 +1,8 @@
+.config
+.config/ulauncher
+.config/ulauncher/extensions.json
+.config/ulauncher/extensions.json/**
+.config/ulauncher/settings.json
+.config/ulauncher/settings.json/**
+.config/ulauncher/shortcuts.json
+.config/ulauncher/shortcuts.json/**

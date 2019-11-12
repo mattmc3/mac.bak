@@ -1,14 +1,19 @@
-# visual studio code
-
-+ .config/
-+ .config/Code/
-+ .config/Code/User/
-- .config/Code/User/workspaceStorage/
-+ .config/Code/User/**
-
-+ Library/
-+ Library/Application Support/
-+ Library/Application Support/Code/
-+ Library/Application Support/Code/User/
-- Library/Application Support/Code/User/workspaceStorage/
-+ Library/Application Support/Code/User/**
+Library
+Library/Application Support
+Library/Application Support/Code
+Library/Application Support/Code/User
+Library/Application Support/Code/User/snippets
+Library/Application Support/Code/User/snippets/**
+Library/Application Support/Code/User/keybindings.json
+Library/Application Support/Code/User/keybindings.json/**
+Library/Application Support/Code/User/settings.json
+Library/Application Support/Code/User/settings.json/**
+.config
+.config/Code
+.config/Code/User
+.config/Code/User/snippets
+.config/Code/User/snippets/**
+.config/Code/User/keybindings.json
+.config/Code/User/keybindings.json/**
+.config/Code/User/settings.json
+.config/Code/User/settings.json/**

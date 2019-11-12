@@ -3,9 +3,5 @@
 .gnupg/gpg-agent.conf/**
 .gnupg/gpg.conf
 .gnupg/gpg.conf/**
-.gnupg/secring.gpg
-.gnupg/secring.gpg/**
 .gnupg/trustdb.gpg
 .gnupg/trustdb.gpg/**
-.gnupg/pubring.gpg
-.gnupg/pubring.gpg/**

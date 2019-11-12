@@ -1,0 +1,3 @@
+.zabbix-cli
+.zabbix-cli/zabbix-cli.conf
+.zabbix-cli/zabbix-cli.conf/**

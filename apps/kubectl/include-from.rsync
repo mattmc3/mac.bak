@@ -1,0 +1,3 @@
+.kube
+.kube/config
+.kube/config/**

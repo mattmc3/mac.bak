@@ -1,0 +1,6 @@
+.config
+.config/alacritty
+.config/alacritty/alacritty.yml
+.config/alacritty/alacritty.yml/**
+.alacritty.yml
+.alacritty.yml/**

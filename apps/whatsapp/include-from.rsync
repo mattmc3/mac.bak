@@ -1,0 +1,12 @@
+Library
+Library/Application Support
+Library/Application Support/WhatsApp
+Library/Application Support/WhatsApp/Preferences
+Library/Application Support/WhatsApp/Preferences/**
+Library/Application Support/WhatsApp/settings.json
+Library/Application Support/WhatsApp/settings.json/**
+Library/Preferences
+Library/Preferences/WhatsApp-Helper.plist
+Library/Preferences/WhatsApp-Helper.plist/**
+Library/Preferences/WhatsApp.plist
+Library/Preferences/WhatsApp.plist/**

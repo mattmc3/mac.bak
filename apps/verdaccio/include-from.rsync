@@ -1,0 +1,4 @@
+.config
+.config/verdaccio
+.config/verdaccio/config.yaml
+.config/verdaccio/config.yaml/**

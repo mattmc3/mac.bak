@@ -1,0 +1,19 @@
+Library
+Library/Application Support
+Library/Application Support/Code - OSS
+Library/Application Support/Code - OSS/User
+Library/Application Support/Code - OSS/User/snippets
+Library/Application Support/Code - OSS/User/snippets/**
+Library/Application Support/Code - OSS/User/keybindings.json
+Library/Application Support/Code - OSS/User/keybindings.json/**
+Library/Application Support/Code - OSS/User/settings.json
+Library/Application Support/Code - OSS/User/settings.json/**
+.config
+.config/Code - OSS
+.config/Code - OSS/User
+.config/Code - OSS/User/snippets
+.config/Code - OSS/User/snippets/**
+.config/Code - OSS/User/keybindings.json
+.config/Code - OSS/User/keybindings.json/**
+.config/Code - OSS/User/settings.json
+.config/Code - OSS/User/settings.json/**

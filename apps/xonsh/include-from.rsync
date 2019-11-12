@@ -1,4 +1,2 @@
-.config/
-.config/xonsh/
-.config/xonsh/**
 .xonshrc
+.xonshrc/**

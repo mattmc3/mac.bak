@@ -4,6 +4,12 @@
 .Rhistory/**
 .Rprofile
 .Rprofile/**
+.Rprofile.d
+.Rprofile.d/**
+.Renviron
+.Renviron/**
+.Renviron.d
+.Renviron.d/**
 Library
 Library/Preferences
 Library/Preferences/org.R-project.R.plist

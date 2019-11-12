@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/com.colliderli.iina
+Library/Application Support/com.colliderli.iina/input_conf
+Library/Application Support/com.colliderli.iina/input_conf/**
+Library/Preferences
+Library/Preferences/com.colliderli.iina.plist
+Library/Preferences/com.colliderli.iina.plist/**

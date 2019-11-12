@@ -1,0 +1,13 @@
+Library
+Library/Application Support
+Library/Application Support/Cerebro
+Library/Application Support/Cerebro/config.json
+Library/Application Support/Cerebro/config.json/**
+Library/Application Support/Cerebro/plugins
+Library/Application Support/Cerebro/plugins/**
+.config
+.config/Cerebro
+.config/Cerebro/config.json
+.config/Cerebro/config.json/**
+.config/Cerebro/plugins
+.config/Cerebro/plugins/**

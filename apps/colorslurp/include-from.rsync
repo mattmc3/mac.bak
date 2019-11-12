@@ -1,0 +1,11 @@
+Library
+Library/Preferences
+Library/Preferences/com.IdeaPunch.ColorSlurp.plist
+Library/Preferences/com.IdeaPunch.ColorSlurp.plist/**
+Library/Containers
+Library/Containers/com.IdeaPunch.ColorSlurp
+Library/Containers/com.IdeaPunch.ColorSlurp/Data
+Library/Containers/com.IdeaPunch.ColorSlurp/Data/Library
+Library/Containers/com.IdeaPunch.ColorSlurp/Data/Library/Application Support
+Library/Containers/com.IdeaPunch.ColorSlurp/Data/Library/Application Support/default.realm
+Library/Containers/com.IdeaPunch.ColorSlurp/Data/Library/Application Support/default.realm/**

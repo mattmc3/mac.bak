@@ -1,0 +1,10 @@
+.config
+.config/openbox
+.config/openbox/menu.xml
+.config/openbox/menu.xml/**
+.config/openbox/rc.xml
+.config/openbox/rc.xml/**
+.config/openbox/environment
+.config/openbox/environment/**
+.config/openbox/autostart
+.config/openbox/autostart/**

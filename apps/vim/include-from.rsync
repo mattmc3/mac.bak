@@ -7,8 +7,8 @@
 .vim
 .vim/autoload
 .vim/autoload/**
-.vim/bundle
-.vim/bundle/**
+.vim/after
+.vim/after/**
 .vim/colors
 .vim/colors/**
 .vim/doc
@@ -19,9 +19,13 @@
 .vim/ftplugin/**
 .vim/indent
 .vim/indent/**
+.vim/pack
+.vim/pack/**
 .vim/plugin
 .vim/plugin/settings
 .vim/plugin/settings/**
+.vim/spell
+.vim/spell/**
 .vim/syntax
 .vim/syntax/**
 .vim/vimrc

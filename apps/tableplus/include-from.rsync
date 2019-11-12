@@ -1,0 +1,10 @@
+Library
+Library/Application Support
+Library/Application Support/com.tinyapp.TablePlus
+Library/Application Support/com.tinyapp.TablePlus/Data
+Library/Application Support/com.tinyapp.TablePlus/Data/**
+Library/Application Support/com.tinyapp.TablePlus/Plugins
+Library/Application Support/com.tinyapp.TablePlus/Plugins/**
+Library/Preferences
+Library/Preferences/com.tinyapp.TablePlus.plist
+Library/Preferences/com.tinyapp.TablePlus.plist/**

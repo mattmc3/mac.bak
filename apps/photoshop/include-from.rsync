@@ -13,6 +13,9 @@ Library/Application Support/Adobe/Adobe Photoshop CC 2015/Presets/**
 Library/Application Support/Adobe/Adobe Photoshop CC 2015.5
 Library/Application Support/Adobe/Adobe Photoshop CC 2015.5/Presets
 Library/Application Support/Adobe/Adobe Photoshop CC 2015.5/Presets/**
+Library/Application Support/Adobe/Adobe Photoshop CC 2019
+Library/Application Support/Adobe/Adobe Photoshop CC 2019/Presets
+Library/Application Support/Adobe/Adobe Photoshop CC 2019/Presets/**
 Library/Preferences
 Library/Preferences/Adobe Photoshop CC 2013 Settings
 Library/Preferences/Adobe Photoshop CC 2013 Settings/**
@@ -22,5 +25,7 @@ Library/Preferences/Adobe Photoshop CC 2015 Settings
 Library/Preferences/Adobe Photoshop CC 2015 Settings/**
 Library/Preferences/Adobe Photoshop CC 2015.5 Settings
 Library/Preferences/Adobe Photoshop CC 2015.5 Settings/**
+Library/Preferences/Adobe Photoshop CC 2019 Settings
+Library/Preferences/Adobe Photoshop CC 2019 Settings/**
 Library/Preferences/com.adobe.Photoshop.plist
 Library/Preferences/com.adobe.Photoshop.plist/**

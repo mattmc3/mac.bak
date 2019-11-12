@@ -1,0 +1,6 @@
+.asdfrc
+.asdfrc/**
+.tool-versions
+.tool-versions/**
+.default-gems
+.default-gems/**

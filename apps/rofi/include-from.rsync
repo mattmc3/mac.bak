@@ -1,0 +1,4 @@
+.config
+.config/rofi
+.config/rofi/config.rasi
+.config/rofi/config.rasi/**

@@ -1,2 +1,5 @@
 .tigrc
 .tigrc/**
+tig
+tig/config
+tig/config/**

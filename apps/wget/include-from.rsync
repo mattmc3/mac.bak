@@ -1,2 +1,4 @@
 .wgetrc
 .wgetrc/**
+.wget-hsts
+.wget-hsts/**

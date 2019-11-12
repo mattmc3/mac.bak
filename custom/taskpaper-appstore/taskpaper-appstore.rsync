@@ -1,0 +1,9 @@
+Library/
++ Library/Containers/
++ Library/Containers/com.hogbaysoftware.TaskPaper3/
++ Library/Containers/com.hogbaysoftware.TaskPaper3/Data/
++ Library/Containers/com.hogbaysoftware.TaskPaper3/Data/Library/
++ Library/Containers/com.hogbaysoftware.TaskPaper3/Data/Library/Application Support/
++ Library/Containers/com.hogbaysoftware.TaskPaper3/Data/Library/Application Support/TaskPaper/
+- Library/Containers/com.hogbaysoftware.TaskPaper3/Data/Library/Application Support/TaskPaper/Receipts/
++ Library/Containers/com.hogbaysoftware.TaskPaper3/Data/Library/Application Support/TaskPaper/**

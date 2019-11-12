@@ -1,5 +1,7 @@
 .config
 .config/mpv
+.config/mpv/config
+.config/mpv/config/**
 .config/mpv/mpv.conf
 .config/mpv/mpv.conf/**
 .config/mpv/scripts
