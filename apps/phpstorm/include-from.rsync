@@ -1,5 +1,8 @@
 Library
 Library/Application Support
+Library/Application Support/JetBrains
+Library/Application Support/JetBrains/PhpStorm2020.1
+Library/Application Support/JetBrains/PhpStorm2020.1/**
 Library/Application Support/PhpStorm2016.1
 Library/Application Support/PhpStorm2016.1/**
 Library/Application Support/PhpStorm2016.2
@@ -22,6 +25,8 @@ Library/Application Support/PhpStorm2019.1
 Library/Application Support/PhpStorm2019.1/**
 Library/Application Support/PhpStorm2019.2
 Library/Application Support/PhpStorm2019.2/**
+Library/Application Support/PhpStorm2019.3
+Library/Application Support/PhpStorm2019.3/**
 Library/Application Support/WebIde100
 Library/Application Support/WebIde100/**
 Library/Application Support/WebIde60
@@ -59,6 +64,8 @@ Library/Preferences/PhpStorm2019.1
 Library/Preferences/PhpStorm2019.1/**
 Library/Preferences/PhpStorm2019.2
 Library/Preferences/PhpStorm2019.2/**
+Library/Preferences/PhpStorm2019.3
+Library/Preferences/PhpStorm2019.3/**
 Library/Preferences/WebIde100
 Library/Preferences/WebIde100/**
 Library/Preferences/WebIde60
