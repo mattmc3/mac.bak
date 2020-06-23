@@ -1,0 +1,9 @@
+powerline
+powerline/config.json
+powerline/config.json/**
+powerline/colors.json
+powerline/colors.json/**
+powerline/themes
+powerline/themes/**
+powerline/colorschemes
+powerline/colorschemes/**

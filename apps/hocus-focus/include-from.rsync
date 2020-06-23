@@ -1,0 +1,11 @@
+Library
+Library/Preferences
+Library/Preferences/com.uglyapps.HocusFocus.plist
+Library/Preferences/com.uglyapps.HocusFocus.plist/**
+Library/Application Support
+Library/Application Support/com.uglyapps.HocusFocusHocusFocus.db
+Library/Application Support/com.uglyapps.HocusFocusHocusFocus.db/**
+Library/Application Support/com.uglyapps.HocusFocusHocusFocus.db-shm
+Library/Application Support/com.uglyapps.HocusFocusHocusFocus.db-shm/**
+Library/Application Support/com.uglyapps.HocusFocusHocusFocus.db-wal
+Library/Application Support/com.uglyapps.HocusFocusHocusFocus.db-wal/**
