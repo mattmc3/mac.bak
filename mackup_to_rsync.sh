@@ -28,45 +28,66 @@ function covert_cfg_to_rsync() {
 
     mkdir -p "${rsync_dir}"
 
-    # comment out anything that's not relevant to what we want to rsync
-    # - Comments out headers (ie: [application], [configuration_files])
-    # - Comments out the "name =" setting
-    # Blanks and comments are fine. If Mackup supports anything else in the
-    # future, we may need to modify.
-    sed -E 's/^(\[|name ?=)/\# \1/' "$cfg_file" > "$rsync_file.tmp"
+    # Parse the Mackup cfg file to extract just configuration paths
+    # and prefix XDG paths with .config/
+    awk '
+    BEGIN {
+        in_config = 0
+        in_xdg = 0
+    }
 
-    # we have no idea what's a directory and what's a file without testing
-    # everything. And, since we probably have configs for things that aren't
-    # installed, testing won't tell us accurately anyway.
-    # Rsync doesn't really care, so if we expand everything to treat it like
-    # it's both a file and a directory we should be fine.
-    #
-    # `awk '!/[^\#]/ || !seen[$0]++'` is a uniq trick without the need for a
-    # sort which ignores blank lines and comment lines
+    /^\[configuration_files\]/ {
+        in_config = 1
+        in_xdg = 0
+        next
+    }
+
+    /^\[xdg_configuration_files\]/ {
+        in_config = 0
+        in_xdg = 1
+        next
+    }
+
+    /^\[.*\]/ {
+        in_config = 0
+        in_xdg = 0
+        next
+    }
+
+    /^[^#]/ && NF > 0 {
+        if (in_config) {
+            print $0
+        } else if (in_xdg) {
+            print ".config/" $0
+        }
+    }
+    ' "$cfg_file" > "$rsync_file.tmp"
+
+    # Process each path to generate rsync rules
     awk -F"/" '{
+        if (length($0) == 0) next;
+
         p=""
-        # expand each ancestor folder separately because rsync requires it
-        for(i=1; i<=NF; i++) {
-            print p $i;
-            p=p $i "/";
-        }
-        if (length($0) == 0) {
-            print ""  # keep blanks
-        }
-        else if( $0 !~ /^ *#/ ) {
-            print $0 "/**";  # get everything under the dir specified
-        }
-    }' "$rsync_file.tmp" | awk '!/[^#]/ || !seen[$0]++' > "$rsync_file.tmp2"
+        # First print the full path
+        print $0;
 
-    # now, remove comments and blanks
-    cat "$rsync_file.tmp2" | grep -Ev '(#.*$)|(^$)' > "$rsync_file"
-    # cat "$rsync_file.tmp2" > "$rsync_file"
+        # Then expand each ancestor folder separately because rsync requires it
+        for(i=1; i<NF; i++) {
+            path = "";
+            for(j=1; j<=i; j++) {
+                if (j > 1) path = path "/";
+                path = path $j;
+            }
+            print path;
+        }
 
-    # clean up temp file(s)
+        # Add wildcard to get everything under the specified path
+        print $0 "/**";
+    }' "$rsync_file.tmp" | sort | uniq > "$rsync_file"
+
+    # Clean up temp file
     rm "$rsync_file.tmp"
-    rm "$rsync_file.tmp2"
 }
-
 
 FILES="${MACKUPDIR}/*.cfg"
 for f in $FILES; do
