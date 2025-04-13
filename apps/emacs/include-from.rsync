@@ -1,4 +1,4 @@
 .emacs
-.emacs/**
 .emacs.d
 .emacs.d/**
+.emacs/**

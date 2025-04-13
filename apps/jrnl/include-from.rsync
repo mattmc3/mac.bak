@@ -1,2 +1,6 @@
+.config
+.config/jrnl
+.config/jrnl/jrnl.yaml
+.config/jrnl/jrnl.yaml/**
 .jrnl_config
 .jrnl_config/**

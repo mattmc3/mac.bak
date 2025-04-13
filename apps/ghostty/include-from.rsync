@@ -1,0 +1,4 @@
+.config
+.config/ghostty
+.config/ghostty/config
+.config/ghostty/config/**

@@ -1,8 +1,8 @@
-.Xmodmap
-.Xmodmap/**
-.Xresources
-.Xresources/**
 .fonts
 .fonts/**
 .xinitrc
 .xinitrc/**
+.Xmodmap
+.Xmodmap/**
+.Xresources
+.Xresources/**

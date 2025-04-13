@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/com.cordlessdog.Stay.plist
-Library/Preferences/com.cordlessdog.Stay.plist/**
 Library/Application Support
 Library/Application Support/Stay
 Library/Application Support/Stay/**
+Library/Preferences
+Library/Preferences/com.cordlessdog.Stay.plist
+Library/Preferences/com.cordlessdog.Stay.plist/**

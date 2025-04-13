@@ -3,10 +3,10 @@ Library/MonoDevelop-Unity-5.0
 Library/MonoDevelop-Unity-5.0/KeyBindings
 Library/MonoDevelop-Unity-5.0/KeyBindings/Custom.mac-kb.xml
 Library/MonoDevelop-Unity-5.0/KeyBindings/Custom.mac-kb.xml/**
+Library/MonoDevelop-Unity-5.0/Policies
+Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml
+Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml/**
 Library/Preferences
 Library/Preferences/MonoDevelop-Unity-5.0
 Library/Preferences/MonoDevelop-Unity-5.0/MonoDevelopProperties.xml
 Library/Preferences/MonoDevelop-Unity-5.0/MonoDevelopProperties.xml/**
-Library/MonoDevelop-Unity-5.0/Policies
-Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml
-Library/MonoDevelop-Unity-5.0/Policies/Default.mdpolicy.xml/**

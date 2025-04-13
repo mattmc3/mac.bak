@@ -1,6 +1,6 @@
-.perltidyrc
-.perltidyrc/**
 .perlcriticrc
 .perlcriticrc/**
+.perltidyrc
+.perltidyrc/**
 .proverc
 .proverc/**

@@ -1,0 +1,6 @@
+.config
+.config/k9s
+.config/k9s/config.yml
+.config/k9s/config.yml/**
+.config/k9s/skin.yml
+.config/k9s/skin.yml/**

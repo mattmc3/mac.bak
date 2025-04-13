@@ -1,4 +1,4 @@
 .config
 .config/fish
-.config/fish/fishfile
-.config/fish/fishfile/**
+.config/fish/fish_plugins
+.config/fish/fish_plugins/**

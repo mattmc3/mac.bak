@@ -1,0 +1,4 @@
+.config
+.config/trizen
+.config/trizen/trizen.conf
+.config/trizen/trizen.conf/**

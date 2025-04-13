@@ -1,0 +1,11 @@
+Library
+Library/Application Support
+Library/Application Support/com.proxyman.NSProxy
+Library/Application Support/com.proxyman.NSProxy-setapp
+Library/Application Support/com.proxyman.NSProxy-setapp/**
+Library/Application Support/com.proxyman.NSProxy/**
+Library/Preferences
+Library/Preferences/com.proxyman.NSProxy-setapp.plist
+Library/Preferences/com.proxyman.NSProxy-setapp.plist/**
+Library/Preferences/com.proxyman.NSProxy.plist
+Library/Preferences/com.proxyman.NSProxy.plist/**

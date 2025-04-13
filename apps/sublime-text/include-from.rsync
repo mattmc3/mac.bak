@@ -1,0 +1,11 @@
+.config
+.config/sublime-text
+.config/sublime-text/Packages
+.config/sublime-text/Packages/User
+.config/sublime-text/Packages/User/**
+Library
+Library/Application Support
+Library/Application Support/Sublime Text
+Library/Application Support/Sublime Text/Packages
+Library/Application Support/Sublime Text/Packages/User
+Library/Application Support/Sublime Text/Packages/User/**

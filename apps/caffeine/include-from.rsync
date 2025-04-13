@@ -1,4 +1,6 @@
 Library
 Library/Preferences
+Library/Preferences/com.intelliscapesolutions.caffeine.plist
+Library/Preferences/com.intelliscapesolutions.caffeine.plist/**
 Library/Preferences/com.lightheadsw.Caffeine.plist
 Library/Preferences/com.lightheadsw.Caffeine.plist/**

@@ -1,2 +1,3 @@
-.tmuxinator
-.tmuxinator/**
+.config
+.config/tmuxinator
+.config/tmuxinator/**

@@ -1,0 +1,10 @@
+Library
+Library/Application Support
+Library/Application Support/obs-studio
+Library/Application Support/obs-studio/basic
+Library/Application Support/obs-studio/basic/**
+Library/Application Support/obs-studio/global.ini
+Library/Application Support/obs-studio/global.ini/**
+Library/Preferences
+Library/Preferences/com.obsproject.obs-studio.plist
+Library/Preferences/com.obsproject.obs-studio.plist/**

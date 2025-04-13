@@ -15,6 +15,12 @@ Library/Application Support/Adobe/Adobe Illustrator 23/en_US/Adobe SVG Filters.s
 Library/Application Support/Adobe/Adobe Illustrator 23/en_US/Adobe SVG Filters.svg/**
 Library/Application Support/Adobe/Adobe Illustrator 23/en_US/Swatches
 Library/Application Support/Adobe/Adobe Illustrator 23/en_US/Swatches/**
+Library/Application Support/Adobe/Adobe Illustrator 24
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US/Adobe SVG Filters.svg
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US/Adobe SVG Filters.svg/**
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US/Swatches
+Library/Application Support/Adobe/Adobe Illustrator 24/en_US/Swatches/**
 Library/Application Support/Adobe/OOBE
 Library/Application Support/Adobe/OOBE/**
 Library/Preferences
@@ -51,5 +57,30 @@ Library/Preferences/Adobe Illustrator 23 Settings/en_US/Vectorizing Presets
 Library/Preferences/Adobe Illustrator 23 Settings/en_US/Vectorizing Presets/**
 Library/Preferences/Adobe Illustrator 23 Settings/en_US/Workspaces
 Library/Preferences/Adobe Illustrator 23 Settings/en_US/Workspaces/**
+Library/Preferences/Adobe Illustrator 24 Settings
+Library/Preferences/Adobe Illustrator 24 Settings/en_US
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Adobe Illustrator Prefs
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Adobe Illustrator Prefs/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Last Used Artboard Export Settings
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Last Used Artboard Export Settings/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Last Used Asset Export Settings
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Last Used Asset Export Settings/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Modified Workspaces
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Modified Workspaces/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Perspective grid Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Perspective grid Presets/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Print Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Print Presets/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Tools
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Tools/Tools Panel Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Tools/Tools Panel Presets/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Transparency flattener presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Transparency flattener presets/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/VariableWidthProfiles
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/VariableWidthProfiles/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Vectorizing Presets
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Vectorizing Presets/**
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Workspaces
+Library/Preferences/Adobe Illustrator 24 Settings/en_US/Workspaces/**
 Library/Preferences/com.adobe.illustrator.plist
 Library/Preferences/com.adobe.illustrator.plist/**

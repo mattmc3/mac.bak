@@ -1,7 +1,3 @@
-Library
-Library/Preferences
-Library/Preferences/com.github.atom.plist
-Library/Preferences/com.github.atom.plist/**
 .atom
 .atom/config.cson
 .atom/config.cson/**
@@ -15,3 +11,7 @@ Library/Preferences/com.github.atom.plist/**
 .atom/snippets.cson/**
 .atom/styles.less
 .atom/styles.less/**
+Library
+Library/Preferences
+Library/Preferences/com.github.atom.plist
+Library/Preferences/com.github.atom.plist/**

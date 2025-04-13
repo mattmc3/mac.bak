@@ -1,10 +1,10 @@
 Library
-Library/Preferences
-Library/Preferences/com.uranusjr.macdown.plist
-Library/Preferences/com.uranusjr.macdown.plist/**
 Library/Application Support
 Library/Application Support/MacDown
 Library/Application Support/MacDown/Styles
 Library/Application Support/MacDown/Styles/**
 Library/Application Support/MacDown/Themes
 Library/Application Support/MacDown/Themes/**
+Library/Preferences
+Library/Preferences/com.uranusjr.macdown.plist
+Library/Preferences/com.uranusjr.macdown.plist/**

@@ -1,0 +1,4 @@
+.config
+.config/borders
+.config/borders/bordersrc
+.config/borders/bordersrc/**

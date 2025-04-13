@@ -1,2 +1,6 @@
+.config
+.config/skhd
+.config/skhd/skhdrc
+.config/skhd/skhdrc/**
 .skhdrc
 .skhdrc/**

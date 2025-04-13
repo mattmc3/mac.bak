@@ -1,0 +1,6 @@
+.aerospace.toml
+.aerospace.toml/**
+.config
+.config/aerospace
+.config/aerospace/aerospace.toml
+.config/aerospace/aerospace.toml/**

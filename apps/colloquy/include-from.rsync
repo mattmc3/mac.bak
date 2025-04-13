@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/info.colloquy.plist
-Library/Preferences/info.colloquy.plist/**
 Library/Application Support
 Library/Application Support/Colloquy
 Library/Application Support/Colloquy/**
+Library/Preferences
+Library/Preferences/info.colloquy.plist
+Library/Preferences/info.colloquy.plist/**

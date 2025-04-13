@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/xbar
+Library/Application Support/xbar/plugins
+Library/Application Support/xbar/plugins/**
+Library/Application Support/xbar/xbar.config.json
+Library/Application Support/xbar/xbar.config.json/**

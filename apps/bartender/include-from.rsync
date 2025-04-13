@@ -1,4 +1,10 @@
 Library
+Library/Application Support
+Library/Application Support/Bartender
+Library/Application Support/Bartender/Bartender.BartenderPreferences
+Library/Application Support/Bartender/Bartender.BartenderPreferences/**
 Library/Preferences
+Library/Preferences/com.surteesstudios.Bartender-setapp.plist
+Library/Preferences/com.surteesstudios.Bartender-setapp.plist/**
 Library/Preferences/com.surteesstudios.Bartender.plist
 Library/Preferences/com.surteesstudios.Bartender.plist/**

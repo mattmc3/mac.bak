@@ -1,6 +1,4 @@
 Library
-Library/VisualStudio
-Library/VisualStudio/**
 Library/Preferences
 Library/Preferences/VisualStudio
 Library/Preferences/VisualStudio/7.0
@@ -8,3 +6,10 @@ Library/Preferences/VisualStudio/7.0/EditingLayout.xml
 Library/Preferences/VisualStudio/7.0/EditingLayout.xml/**
 Library/Preferences/VisualStudio/7.0/MonoDevelopProperties.xml
 Library/Preferences/VisualStudio/7.0/MonoDevelopProperties.xml/**
+Library/Preferences/VisualStudio/8.0
+Library/Preferences/VisualStudio/8.0/EditingLayout.xml
+Library/Preferences/VisualStudio/8.0/EditingLayout.xml/**
+Library/Preferences/VisualStudio/8.0/MonoDevelopProperties.xml
+Library/Preferences/VisualStudio/8.0/MonoDevelopProperties.xml/**
+Library/VisualStudio
+Library/VisualStudio/**

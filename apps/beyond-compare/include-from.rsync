@@ -1,0 +1,14 @@
+Library
+Library/Application Support
+Library/Application Support/Beyond Compare
+Library/Application Support/Beyond Compare/BC4Key.txt
+Library/Application Support/Beyond Compare/BC4Key.txt/**
+Library/Application Support/Beyond Compare/BCColors.xml
+Library/Application Support/Beyond Compare/BCColors.xml/**
+Library/Application Support/Beyond Compare/BCCommands.xml
+Library/Application Support/Beyond Compare/BCCommands.xml/**
+Library/Application Support/Beyond Compare/BCPreferences.xml
+Library/Application Support/Beyond Compare/BCPreferences.xml/**
+Library/Preferences
+Library/Preferences/com.ScooterSoftware.BeyondCompare.plist
+Library/Preferences/com.ScooterSoftware.BeyondCompare.plist/**

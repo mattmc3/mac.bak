@@ -1,2 +1,6 @@
+.config
+.config/yabai
+.config/yabai/yabairc
+.config/yabai/yabairc/**
 .yabairc
 .yabairc/**

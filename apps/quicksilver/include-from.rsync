@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/com.blacktree.Quicksilver.plist
-Library/Preferences/com.blacktree.Quicksilver.plist/**
 Library/Application Support
 Library/Application Support/Quicksilver
 Library/Application Support/Quicksilver/**
+Library/Preferences
+Library/Preferences/com.blacktree.Quicksilver.plist
+Library/Preferences/com.blacktree.Quicksilver.plist/**

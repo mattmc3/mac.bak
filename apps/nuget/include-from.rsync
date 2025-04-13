@@ -1,0 +1,4 @@
+.nuget
+.nuget/NuGet
+.nuget/NuGet/NuGet.Config
+.nuget/NuGet/NuGet.Config/**

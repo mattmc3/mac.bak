@@ -1,0 +1,4 @@
+.config
+.config/beets
+.config/beets/config.yaml
+.config/beets/config.yaml/**

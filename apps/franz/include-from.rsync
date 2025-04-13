@@ -1,9 +1,9 @@
+.config
+.config/Franz
+.config/Franz/settings
+.config/Franz/settings/**
 Library
 Library/Application Support
 Library/Application Support/Franz
 Library/Application Support/Franz/settings
 Library/Application Support/Franz/settings/**
-.config
-.config/Franz
-.config/Franz/settings
-.config/Franz/settings/**

@@ -1,0 +1,3 @@
+.mitmproxy
+.mitmproxy/config.yaml
+.mitmproxy/config.yaml/**

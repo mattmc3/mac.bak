@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/com.hegenberg.BetterSnapTool.plist
-Library/Preferences/com.hegenberg.BetterSnapTool.plist/**
 Library/Application Support
 Library/Application Support/BetterSnapTool
 Library/Application Support/BetterSnapTool/**
+Library/Preferences
+Library/Preferences/com.hegenberg.BetterSnapTool.plist
+Library/Preferences/com.hegenberg.BetterSnapTool.plist/**

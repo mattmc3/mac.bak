@@ -1,4 +1,4 @@
 .ansible
-.ansible/**
 .ansible.cfg
 .ansible.cfg/**
+.ansible/**

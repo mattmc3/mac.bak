@@ -1,13 +1,11 @@
- 
- /**
 Library
+Library/Application Support
+Library/Application Support/Karabiner
+Library/Application Support/Karabiner/**
 Library/Preferences
-Library/Preferences/org.pqrs.Karabiner.plist
-Library/Preferences/org.pqrs.Karabiner.plist/**
 Library/Preferences/org.pqrs.Karabiner-AXNotifier.plist
 Library/Preferences/org.pqrs.Karabiner-AXNotifier.plist/**
 Library/Preferences/org.pqrs.Karabiner.multitouchextension.plist
 Library/Preferences/org.pqrs.Karabiner.multitouchextension.plist/**
-Library/Application Support
-Library/Application Support/Karabiner
-Library/Application Support/Karabiner/**
+Library/Preferences/org.pqrs.Karabiner.plist
+Library/Preferences/org.pqrs.Karabiner.plist/**

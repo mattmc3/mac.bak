@@ -3,5 +3,9 @@ Library/Application Support
 Library/Application Support/org.yanex.marta
 Library/Application Support/org.yanex.marta/conf.json
 Library/Application Support/org.yanex.marta/conf.json/**
+Library/Application Support/org.yanex.marta/conf.marco
+Library/Application Support/org.yanex.marta/conf.marco/**
 Library/Application Support/org.yanex.marta/favorites.json
 Library/Application Support/org.yanex.marta/favorites.json/**
+Library/Application Support/org.yanex.marta/favorites.marco
+Library/Application Support/org.yanex.marta/favorites.marco/**

@@ -2,9 +2,6 @@ Library
 Library/Application Support
 Library/Application Support/Textual IRC
 Library/Application Support/Textual IRC/**
-Library/Preferences
-Library/Preferences/com.codeux.irc.textual.plist
-Library/Preferences/com.codeux.irc.textual.plist/**
 Library/Containers
 Library/Containers/com.codeux.irc.textual
 Library/Containers/com.codeux.irc.textual/Data
@@ -12,3 +9,6 @@ Library/Containers/com.codeux.irc.textual/Data/Library
 Library/Containers/com.codeux.irc.textual/Data/Library/Preferences
 Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist
 Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist/**
+Library/Preferences
+Library/Preferences/com.codeux.irc.textual.plist
+Library/Preferences/com.codeux.irc.textual.plist/**

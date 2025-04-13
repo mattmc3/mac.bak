@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/com.devolutions.remotedesktopmanager
+Library/Application Support/com.devolutions.remotedesktopmanager.free
+Library/Application Support/com.devolutions.remotedesktopmanager.free/Connections.db
+Library/Application Support/com.devolutions.remotedesktopmanager.free/Connections.db/**
+Library/Application Support/com.devolutions.remotedesktopmanager/Connections.db
+Library/Application Support/com.devolutions.remotedesktopmanager/Connections.db/**

@@ -1,8 +1,8 @@
 Library
 Library/Application Support
 Library/Application Support/SABnzbd
-Library/Application Support/SABnzbd/sabnzbd.ini
-Library/Application Support/SABnzbd/sabnzbd.ini/**
 Library/Application Support/SABnzbd/admin
 Library/Application Support/SABnzbd/admin/rss_data.sab
 Library/Application Support/SABnzbd/admin/rss_data.sab/**
+Library/Application Support/SABnzbd/sabnzbd.ini
+Library/Application Support/SABnzbd/sabnzbd.ini/**

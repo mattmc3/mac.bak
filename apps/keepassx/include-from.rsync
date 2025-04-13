@@ -1,14 +1,14 @@
-.keepassx
-.keepassx/**
 .config
 .config/keepassx
 .config/keepassx/keepassx2.ini
 .config/keepassx/keepassx2.ini/**
+.keepassx
+.keepassx/**
 Library
-Library/Preferences
-Library/Preferences/org.keepassx.keepassx.plist
-Library/Preferences/org.keepassx.keepassx.plist/**
 Library/Application Support
 Library/Application Support/keepassx
 Library/Application Support/keepassx/keepassx2.ini
 Library/Application Support/keepassx/keepassx2.ini/**
+Library/Preferences
+Library/Preferences/org.keepassx.keepassx.plist
+Library/Preferences/org.keepassx.keepassx.plist/**

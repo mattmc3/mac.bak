@@ -1,0 +1,7 @@
+.termux
+.termux/colors.properties
+.termux/colors.properties/**
+.termux/font.ttf
+.termux/font.ttf/**
+.termux/termux.properties
+.termux/termux.properties/**

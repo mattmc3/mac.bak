@@ -1,0 +1,10 @@
+.config
+.config/espanso
+.config/espanso/**
+Library
+Library/Application Support
+Library/Application Support/espanso
+Library/Application Support/espanso/**
+Library/Preferences
+Library/Preferences/espanso
+Library/Preferences/espanso/**

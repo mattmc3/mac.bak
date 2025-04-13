@@ -1,6 +1,11 @@
 Library
 Library/Application Support
 Library/Application Support/com.tinyapp.TablePlus
+Library/Application Support/com.tinyapp.TablePlus/Cache
+Library/Application Support/com.tinyapp.TablePlus/Cache/Favorite
+Library/Application Support/com.tinyapp.TablePlus/Cache/Favorite/**
+Library/Application Support/com.tinyapp.TablePlus/Cache/History
+Library/Application Support/com.tinyapp.TablePlus/Cache/History/**
 Library/Application Support/com.tinyapp.TablePlus/Data
 Library/Application Support/com.tinyapp.TablePlus/Data/**
 Library/Application Support/com.tinyapp.TablePlus/Plugins

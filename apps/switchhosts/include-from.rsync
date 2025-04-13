@@ -1,0 +1,5 @@
+.SwitchHosts
+.SwitchHosts/data
+.SwitchHosts/data/collection
+.SwitchHosts/data/collection/hosts
+.SwitchHosts/data/collection/hosts/**

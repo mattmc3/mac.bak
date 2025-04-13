@@ -1,0 +1,4 @@
+.config
+.config/flameshot
+.config/flameshot/flameshot.ini
+.config/flameshot/flameshot.ini/**

@@ -1,7 +1,7 @@
 .gradle
 .gradle/gradle.properties
 .gradle/gradle.properties/**
-.gradle/init.gradle
-.gradle/init.gradle/**
 .gradle/init.d
 .gradle/init.d/**
+.gradle/init.gradle
+.gradle/init.gradle/**

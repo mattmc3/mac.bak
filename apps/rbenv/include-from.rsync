@@ -1,0 +1,3 @@
+.rbenv
+.rbenv/default_gems
+.rbenv/default_gems/**

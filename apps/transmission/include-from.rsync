@@ -1,11 +1,3 @@
-Library
-Library/Preferences
-Library/Preferences/org.m0k.transmission.plist
-Library/Preferences/org.m0k.transmission.plist/**
-Library/Application Support
-Library/Application Support/Transmission
-Library/Application Support/Transmission/blocklists
-Library/Application Support/Transmission/blocklists/**
 .config
 .config/transmission
 .config/transmission/blocklists
@@ -14,3 +6,11 @@ Library/Application Support/Transmission/blocklists/**
 .config/transmission/settings.json/**
 .config/transmission/stats.json
 .config/transmission/stats.json/**
+Library
+Library/Application Support
+Library/Application Support/Transmission
+Library/Application Support/Transmission/blocklists
+Library/Application Support/Transmission/blocklists/**
+Library/Preferences
+Library/Preferences/org.m0k.transmission.plist
+Library/Preferences/org.m0k.transmission.plist/**

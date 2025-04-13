@@ -1,0 +1,9 @@
+Library
+Library/Music
+Library/Music/Scripts
+Library/Music/Scripts/**
+Library/Preferences
+Library/Preferences/com.apple.Music.eq.plist
+Library/Preferences/com.apple.Music.eq.plist/**
+Library/Preferences/com.apple.Music.plist
+Library/Preferences/com.apple.Music.plist/**

@@ -1,10 +1,10 @@
 .config
 .config/micro
-.config/micro/colorschemes
-.config/micro/colorschemes/**
-.config/micro/syntax
-.config/micro/syntax/**
-.config/micro/settings.json
-.config/micro/settings.json/**
 .config/micro/bindings.json
 .config/micro/bindings.json/**
+.config/micro/colorschemes
+.config/micro/colorschemes/**
+.config/micro/settings.json
+.config/micro/settings.json/**
+.config/micro/syntax
+.config/micro/syntax/**

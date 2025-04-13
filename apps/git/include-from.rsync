@@ -1,7 +1,10 @@
+.config
+.config/git
+.config/git/attributes
+.config/git/attributes/**
+.config/git/config
+.config/git/config/**
+.config/git/ignore
+.config/git/ignore/**
 .gitconfig
 .gitconfig/**
-git
-git/config
-git/config/**
-git/ignore
-git/ignore/**

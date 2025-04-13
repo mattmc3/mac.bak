@@ -1,0 +1,7 @@
+Library
+Library/Preferences
+Library/Preferences/qv2ray
+Library/Preferences/qv2ray/plugin_settings
+Library/Preferences/qv2ray/plugin_settings/**
+Library/Preferences/qv2ray/Qv2ray.conf
+Library/Preferences/qv2ray/Qv2ray.conf/**

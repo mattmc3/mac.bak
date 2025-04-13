@@ -1,0 +1,19 @@
+.config
+.config/Cursor
+.config/Cursor/User
+.config/Cursor/User/keybindings.json
+.config/Cursor/User/keybindings.json/**
+.config/Cursor/User/settings.json
+.config/Cursor/User/settings.json/**
+.config/Cursor/User/snippets
+.config/Cursor/User/snippets/**
+Library
+Library/Application Support
+Library/Application Support/Cursor
+Library/Application Support/Cursor/User
+Library/Application Support/Cursor/User/keybindings.json
+Library/Application Support/Cursor/User/keybindings.json/**
+Library/Application Support/Cursor/User/settings.json
+Library/Application Support/Cursor/User/settings.json/**
+Library/Application Support/Cursor/User/snippets
+Library/Application Support/Cursor/User/snippets/**

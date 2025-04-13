@@ -1,10 +1,10 @@
 Library
+Library/Application Support
+Library/Application Support/Yummy FTP
+Library/Application Support/Yummy FTP/Bookmarks
+Library/Application Support/Yummy FTP/Bookmarks/**
+Library/Application Support/Yummy FTP/DefaultBookmark.bkmk
+Library/Application Support/Yummy FTP/DefaultBookmark.bkmk/**
 Library/Preferences
 Library/Preferences/com.yummysoftware.yummy-ftp.plist
 Library/Preferences/com.yummysoftware.yummy-ftp.plist/**
-Library/Application Support
-Library/Application Support/Yummy FTP
-Library/Application Support/Yummy FTP/DefaultBookmark.bkmk
-Library/Application Support/Yummy FTP/DefaultBookmark.bkmk/**
-Library/Application Support/Yummy FTP/Bookmarks
-Library/Application Support/Yummy FTP/Bookmarks/**

@@ -1,0 +1,13 @@
+.config
+.config/polybar
+.config/polybar/config
+.config/polybar/config/**
+.config/polybar/launch.sh
+.config/polybar/launch.sh/**
+.config/polybar/scripts
+.config/polybar/scripts/**
+.polybar
+.polybar/config
+.polybar/config/**
+.polybar/launch.sh
+.polybar/launch.sh/**

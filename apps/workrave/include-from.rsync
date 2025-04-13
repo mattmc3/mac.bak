@@ -1,5 +1,5 @@
 .workrave
-.workrave/id
-.workrave/id/**
 .workrave/historystats
 .workrave/historystats/**
+.workrave/id
+.workrave/id/**

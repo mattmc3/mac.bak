@@ -1,3 +1,6 @@
+.config
+.config/rstudio
+.config/rstudio/**
 .rstudio-desktop
 .rstudio-desktop/**
 Library

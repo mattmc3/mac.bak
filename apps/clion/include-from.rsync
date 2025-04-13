@@ -1,7 +1,12 @@
 Library
-Library/Preferences
-Library/Preferences/CLion2016.2
-Library/Preferences/CLion2016.2/**
 Library/Application Support
 Library/Application Support/CLion2016.2
 Library/Application Support/CLion2016.2/**
+Library/Application Support/JetBrains
+Library/Application Support/JetBrains/CLion2023.1
+Library/Application Support/JetBrains/CLion2023.1/**
+Library/Application Support/JetBrains/CLion2023.2
+Library/Application Support/JetBrains/CLion2023.2/**
+Library/Preferences
+Library/Preferences/CLion2016.2
+Library/Preferences/CLion2016.2/**

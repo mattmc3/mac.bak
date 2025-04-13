@@ -1,0 +1,7 @@
+.var
+.var/app
+.var/app/com.github.alainm23.planner
+.var/app/com.github.alainm23.planner/config
+.var/app/com.github.alainm23.planner/config/**
+.var/app/com.github.alainm23.planner/data
+.var/app/com.github.alainm23.planner/data/**

@@ -1,0 +1,6 @@
+.config
+.config/zed
+.config/zed/keymap.json
+.config/zed/keymap.json/**
+.config/zed/settings.json
+.config/zed/settings.json/**

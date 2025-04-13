@@ -1,7 +1,4 @@
 Library
-Library/Preferences
-Library/Preferences/com.apple.dt.Xcode.plist
-Library/Preferences/com.apple.dt.Xcode.plist/**
 Library/Application Support
 Library/Application Support/Developer
 Library/Application Support/Developer/Shared
@@ -10,18 +7,21 @@ Library/Application Support/Developer/Shared/Xcode/Plug-ins
 Library/Application Support/Developer/Shared/Xcode/Plug-ins/**
 Library/Developer
 Library/Developer/Xcode
+Library/Developer/Xcode/Templates
+Library/Developer/Xcode/Templates/**
 Library/Developer/Xcode/UserData
 Library/Developer/Xcode/UserData/CodeSnippets
 Library/Developer/Xcode/UserData/CodeSnippets/**
+Library/Developer/Xcode/UserData/Debugger
+Library/Developer/Xcode/UserData/Debugger/**
 Library/Developer/Xcode/UserData/FontAndColorThemes
 Library/Developer/Xcode/UserData/FontAndColorThemes/**
 Library/Developer/Xcode/UserData/KeyBindings
 Library/Developer/Xcode/UserData/KeyBindings/**
-Library/Developer/Xcode/UserData/Debugger
-Library/Developer/Xcode/UserData/Debugger/**
-Library/Developer/Xcode/UserData/xcdebugger
-Library/Developer/Xcode/UserData/xcdebugger/**
 Library/Developer/Xcode/UserData/SearchScopes.xcsclist
 Library/Developer/Xcode/UserData/SearchScopes.xcsclist/**
-Library/Developer/Xcode/Templates
-Library/Developer/Xcode/Templates/**
+Library/Developer/Xcode/UserData/xcdebugger
+Library/Developer/Xcode/UserData/xcdebugger/**
+Library/Preferences
+Library/Preferences/com.apple.dt.Xcode.plist
+Library/Preferences/com.apple.dt.Xcode.plist/**

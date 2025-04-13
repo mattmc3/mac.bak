@@ -1,5 +1,5 @@
-.dockercfg
-.dockercfg/**
 .docker
 .docker/config.json
 .docker/config.json/**
+.docker/daemon.json
+.docker/daemon.json/**

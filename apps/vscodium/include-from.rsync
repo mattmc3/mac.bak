@@ -1,19 +1,19 @@
-Library
-Library/Application Support
-Library/Application Support/VSCodium
-Library/Application Support/VSCodium/User
-Library/Application Support/VSCodium/User/snippets
-Library/Application Support/VSCodium/User/snippets/**
-Library/Application Support/VSCodium/User/keybindings.json
-Library/Application Support/VSCodium/User/keybindings.json/**
-Library/Application Support/VSCodium/User/settings.json
-Library/Application Support/VSCodium/User/settings.json/**
 .config
 .config/VSCodium
 .config/VSCodium/User
-.config/VSCodium/User/snippets
-.config/VSCodium/User/snippets/**
 .config/VSCodium/User/keybindings.json
 .config/VSCodium/User/keybindings.json/**
 .config/VSCodium/User/settings.json
 .config/VSCodium/User/settings.json/**
+.config/VSCodium/User/snippets
+.config/VSCodium/User/snippets/**
+Library
+Library/Application Support
+Library/Application Support/VSCodium
+Library/Application Support/VSCodium/User
+Library/Application Support/VSCodium/User/keybindings.json
+Library/Application Support/VSCodium/User/keybindings.json/**
+Library/Application Support/VSCodium/User/settings.json
+Library/Application Support/VSCodium/User/settings.json/**
+Library/Application Support/VSCodium/User/snippets
+Library/Application Support/VSCodium/User/snippets/**

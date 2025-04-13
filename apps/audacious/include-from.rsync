@@ -2,11 +2,11 @@
 .config/audacious
 .config/audacious/config
 .config/audacious/config/**
-.config/audacious/plugin-registry
-.config/audacious/plugin-registry/**
-.config/audacious/playlists
-.config/audacious/playlists/**
 .config/audacious/playlist-state
 .config/audacious/playlist-state/**
+.config/audacious/playlists
+.config/audacious/playlists/**
+.config/audacious/plugin-registry
+.config/audacious/plugin-registry/**
 .config/audacious/scrobbler.log
 .config/audacious/scrobbler.log/**

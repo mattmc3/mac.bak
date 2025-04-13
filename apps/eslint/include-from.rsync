@@ -1,12 +1,12 @@
+.eslintignore
+.eslintignore/**
+.eslintrc
 .eslintrc.js
 .eslintrc.js/**
+.eslintrc.json
+.eslintrc.json/**
 .eslintrc.yaml
 .eslintrc.yaml/**
 .eslintrc.yml
 .eslintrc.yml/**
-.eslintrc.json
-.eslintrc.json/**
-.eslintrc
 .eslintrc/**
-.eslintignore
-.eslintignore/**

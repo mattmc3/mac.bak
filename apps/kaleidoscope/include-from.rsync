@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/com.blackpixel.kaleidoscope.plist
-Library/Preferences/com.blackpixel.kaleidoscope.plist/**
 Library/Application Support
 Library/Application Support/Kaleidoscope
 Library/Application Support/Kaleidoscope/**
+Library/Preferences
+Library/Preferences/com.blackpixel.kaleidoscope.plist
+Library/Preferences/com.blackpixel.kaleidoscope.plist/**

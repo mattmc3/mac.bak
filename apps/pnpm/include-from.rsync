@@ -1,7 +1,7 @@
 .pnpm
-.pnpm/global_pnpmfile.js
-.pnpm/global_pnpmfile.js/**
 .pnpm-store
 .pnpm-store/2
 .pnpm-store/2/store.json
 .pnpm-store/2/store.json/**
+.pnpm/global_pnpmfile.js
+.pnpm/global_pnpmfile.js/**

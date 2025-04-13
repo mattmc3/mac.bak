@@ -1,0 +1,8 @@
+.config
+.config/yazi
+.config/yazi/keymap.toml
+.config/yazi/keymap.toml/**
+.config/yazi/theme.toml
+.config/yazi/theme.toml/**
+.config/yazi/yazi.toml
+.config/yazi/yazi.toml/**

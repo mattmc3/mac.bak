@@ -1,2 +1,4 @@
 .ctags
+.ctags.d
+.ctags.d/**
 .ctags/**

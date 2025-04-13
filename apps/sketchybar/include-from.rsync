@@ -1,0 +1,6 @@
+.config
+.config/sketchybar
+.config/sketchybar/plugins
+.config/sketchybar/plugins/**
+.config/sketchybar/sketchybarrc
+.config/sketchybar/sketchybarrc/**

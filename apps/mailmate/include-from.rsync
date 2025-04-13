@@ -1,7 +1,4 @@
 Library
-Library/Preferences
-Library/Preferences/com.freron.MailMate.plist
-Library/Preferences/com.freron.MailMate.plist/**
 Library/Application Support
 Library/Application Support/Mailmate
 Library/Application Support/Mailmate/com.freron.MailMate.pid
@@ -10,6 +7,9 @@ Library/Application Support/Mailmate/Identities.plist
 Library/Application Support/Mailmate/Identities.plist/**
 Library/Application Support/Mailmate/Mailboxes.plist
 Library/Application Support/Mailmate/Mailboxes.plist/**
+Library/Application Support/Mailmate/Resources
+Library/Application Support/Mailmate/Resources/KeyBindings
+Library/Application Support/Mailmate/Resources/KeyBindings/**
 Library/Application Support/Mailmate/Signatures.plist
 Library/Application Support/Mailmate/Signatures.plist/**
 Library/Application Support/Mailmate/Sources.plist
@@ -18,3 +18,6 @@ Library/Application Support/Mailmate/Submission.plist
 Library/Application Support/Mailmate/Submission.plist/**
 Library/Application Support/Mailmate/Tags.plist
 Library/Application Support/Mailmate/Tags.plist/**
+Library/Preferences
+Library/Preferences/com.freron.MailMate.plist
+Library/Preferences/com.freron.MailMate.plist/**

@@ -1,14 +1,16 @@
 Library
 Library/Application Support
 Library/Application Support/BetterTouchTool
+Library/Application Support/BetterTouchTool/bettersnaptool.bttlicense
+Library/Application Support/BetterTouchTool/bettersnaptool.bttlicense/**
 Library/Application Support/BetterTouchTool/bettertouchtool.license
 Library/Application Support/BetterTouchTool/bettertouchtool.license/**
 Library/Application Support/BetterTouchTool/btt_data_store.v2
-Library/Application Support/BetterTouchTool/btt_data_store.v2/**
 Library/Application Support/BetterTouchTool/btt_data_store.v2-shm
 Library/Application Support/BetterTouchTool/btt_data_store.v2-shm/**
 Library/Application Support/BetterTouchTool/btt_data_store.v2-wal
 Library/Application Support/BetterTouchTool/btt_data_store.v2-wal/**
+Library/Application Support/BetterTouchTool/btt_data_store.v2/**
 Library/Application Support/BetterTouchTool/bttdata2
 Library/Application Support/BetterTouchTool/bttdata2/**
 Library/Preferences

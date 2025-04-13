@@ -1,0 +1,13 @@
+.config
+.config/nushell
+.config/nushell/config.nu
+.config/nushell/config.nu/**
+.config/nushell/env.nu
+.config/nushell/env.nu/**
+Library
+Library/Application Support
+Library/Application Support/nushell
+Library/Application Support/nushell/config.nu
+Library/Application Support/nushell/config.nu/**
+Library/Application Support/nushell/env.nu
+Library/Application Support/nushell/env.nu/**

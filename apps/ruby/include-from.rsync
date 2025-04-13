@@ -1,11 +1,11 @@
+.aprc
+.aprc/**
+.gem
+.gem/credentials
+.gem/credentials/**
 .gemrc
 .gemrc/**
 .irbrc
 .irbrc/**
-.gem
-.gem/credentials
-.gem/credentials/**
 .pryrc
 .pryrc/**
-.aprc
-.aprc/**

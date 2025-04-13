@@ -1,11 +1,11 @@
 Library
-Library/Preferences
-Library/Preferences/com.binarynights.ForkLift2.plist
-Library/Preferences/com.binarynights.ForkLift2.plist/**
-Library/Preferences/com.binarynights.ForkLift-3.plist
-Library/Preferences/com.binarynights.ForkLift-3.plist/**
 Library/Application Support
 Library/Application Support/ForkLift
 Library/Application Support/ForkLift/Favorites
 Library/Application Support/ForkLift/Favorites/Favorites.json
 Library/Application Support/ForkLift/Favorites/Favorites.json/**
+Library/Preferences
+Library/Preferences/com.binarynights.ForkLift-3.plist
+Library/Preferences/com.binarynights.ForkLift-3.plist/**
+Library/Preferences/com.binarynights.ForkLift2.plist
+Library/Preferences/com.binarynights.ForkLift2.plist/**

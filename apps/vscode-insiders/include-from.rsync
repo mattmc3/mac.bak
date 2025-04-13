@@ -1,19 +1,19 @@
-Library
-Library/Application Support
-Library/Application Support/Code - Insiders
-Library/Application Support/Code - Insiders/User
-Library/Application Support/Code - Insiders/User/snippets
-Library/Application Support/Code - Insiders/User/snippets/**
-Library/Application Support/Code - Insiders/User/keybindings.json
-Library/Application Support/Code - Insiders/User/keybindings.json/**
-Library/Application Support/Code - Insiders/User/settings.json
-Library/Application Support/Code - Insiders/User/settings.json/**
 .config
 .config/Code - Insiders
 .config/Code - Insiders/User
-.config/Code - Insiders/User/snippets
-.config/Code - Insiders/User/snippets/**
 .config/Code - Insiders/User/keybindings.json
 .config/Code - Insiders/User/keybindings.json/**
 .config/Code - Insiders/User/settings.json
 .config/Code - Insiders/User/settings.json/**
+.config/Code - Insiders/User/snippets
+.config/Code - Insiders/User/snippets/**
+Library
+Library/Application Support
+Library/Application Support/Code - Insiders
+Library/Application Support/Code - Insiders/User
+Library/Application Support/Code - Insiders/User/keybindings.json
+Library/Application Support/Code - Insiders/User/keybindings.json/**
+Library/Application Support/Code - Insiders/User/settings.json
+Library/Application Support/Code - Insiders/User/settings.json/**
+Library/Application Support/Code - Insiders/User/snippets
+Library/Application Support/Code - Insiders/User/snippets/**

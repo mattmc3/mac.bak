@@ -1,3 +1,7 @@
+.config
+.config/amethyst
+.config/amethyst/amethyst.yml
+.config/amethyst/amethyst.yml/**
 Library
 Library/Preferences
 Library/Preferences/com.amethyst.Amethyst.plist

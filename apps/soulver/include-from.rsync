@@ -1,11 +1,11 @@
 Library
 Library/Application Support
 Library/Application Support/Soulver
-Library/Application Support/Soulver/**
-Library/Preferences
-Library/Preferences/com.acqualia.soulver.plist
-Library/Preferences/com.acqualia.soulver.plist/**
 Library/Application Support/Soulver 3
 Library/Application Support/Soulver 3/**
+Library/Application Support/Soulver/**
+Library/Preferences
 Library/Preferences/app.soulver.mac.plist
 Library/Preferences/app.soulver.mac.plist/**
+Library/Preferences/com.acqualia.soulver.plist
+Library/Preferences/com.acqualia.soulver.plist/**

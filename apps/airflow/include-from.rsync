@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/Airflow
+Library/Application Support/Airflow/**
+Library/Preferences
+Library/Preferences/com.bitcavehq.Airflow.plist
+Library/Preferences/com.bitcavehq.Airflow.plist/**

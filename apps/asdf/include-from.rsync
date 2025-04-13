@@ -1,6 +1,14 @@
 .asdfrc
 .asdfrc/**
-.tool-versions
-.tool-versions/**
 .default-gems
 .default-gems/**
+.default-golang-pkgs
+.default-golang-pkgs/**
+.default-mix-commands
+.default-mix-commands/**
+.default-npm-packages
+.default-npm-packages/**
+.default-python-packages
+.default-python-packages/**
+.tool-versions
+.tool-versions/**

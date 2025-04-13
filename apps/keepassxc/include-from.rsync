@@ -1,0 +1,8 @@
+Library
+Library/Application Support
+Library/Application Support/keepassxc
+Library/Application Support/keepassxc/keepassxc.ini
+Library/Application Support/keepassxc/keepassxc.ini/**
+Library/Preferences
+Library/Preferences/org.keepassxc.keepassxc.plist
+Library/Preferences/org.keepassxc.keepassxc.plist/**

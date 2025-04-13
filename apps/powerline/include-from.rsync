@@ -1,0 +1,10 @@
+.config
+.config/powerline
+.config/powerline/colors.json
+.config/powerline/colors.json/**
+.config/powerline/colorschemes
+.config/powerline/colorschemes/**
+.config/powerline/config.json
+.config/powerline/config.json/**
+.config/powerline/themes
+.config/powerline/themes/**

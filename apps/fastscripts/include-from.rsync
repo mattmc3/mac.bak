@@ -1,0 +1,7 @@
+Library
+Library/Application Support
+Library/Application Support/FastScripts
+Library/Application Support/FastScripts/**
+Library/Preferences
+Library/Preferences/com.red-sweater.fastscripts.plist
+Library/Preferences/com.red-sweater.fastscripts.plist/**

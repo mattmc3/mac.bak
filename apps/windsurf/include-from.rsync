@@ -1,0 +1,19 @@
+.config
+.config/Windsurf
+.config/Windsurf/User
+.config/Windsurf/User/keybindings.json
+.config/Windsurf/User/keybindings.json/**
+.config/Windsurf/User/settings.json
+.config/Windsurf/User/settings.json/**
+.config/Windsurf/User/snippets
+.config/Windsurf/User/snippets/**
+Library
+Library/Application Support
+Library/Application Support/Windsurf
+Library/Application Support/Windsurf/User
+Library/Application Support/Windsurf/User/keybindings.json
+Library/Application Support/Windsurf/User/keybindings.json/**
+Library/Application Support/Windsurf/User/settings.json
+Library/Application Support/Windsurf/User/settings.json/**
+Library/Application Support/Windsurf/User/snippets
+Library/Application Support/Windsurf/User/snippets/**

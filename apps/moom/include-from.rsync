@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/com.manytricks.Moom.plist
-Library/Preferences/com.manytricks.Moom.plist/**
 Library/Application Support
 Library/Application Support/Many Tricks
 Library/Application Support/Many Tricks/**
+Library/Preferences
+Library/Preferences/com.manytricks.Moom.plist
+Library/Preferences/com.manytricks.Moom.plist/**

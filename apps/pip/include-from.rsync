@@ -1,11 +1,12 @@
+.config
+.config/pip
+.config/pip/pip.conf
+.config/pip/pip.conf/**
+.pip
+.pip/pip.conf
+.pip/pip.conf/**
 Library
 Library/Application Support
 Library/Application Support/pip
 Library/Application Support/pip/pip.conf
 Library/Application Support/pip/pip.conf/**
-.pip
-.pip/pip.conf
-.pip/pip.conf/**
-pip
-pip/pip.conf
-pip/pip.conf/**

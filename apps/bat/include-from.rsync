@@ -1,3 +1,8 @@
-bat
-bat/config
-bat/config/**
+.config
+.config/bat
+.config/bat/config
+.config/bat/config/**
+.config/bat/syntaxes
+.config/bat/syntaxes/**
+.config/bat/themes
+.config/bat/themes/**

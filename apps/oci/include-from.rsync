@@ -1,0 +1,5 @@
+.oci
+.oci/config
+.oci/config/**
+.oci/oci_cli_rc
+.oci/oci_cli_rc/**

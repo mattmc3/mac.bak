@@ -1,9 +1,9 @@
-.qutebrowser
-.qutebrowser/config.py
-.qutebrowser/config.py/**
 .config
 .config/qutebrowser
 .config/qutebrowser/config.py
 .config/qutebrowser/config.py/**
 .config/qutebrowser/qutebrowser.conf
 .config/qutebrowser/qutebrowser.conf/**
+.qutebrowser
+.qutebrowser/config.py
+.qutebrowser/config.py/**

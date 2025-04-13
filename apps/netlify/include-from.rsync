@@ -1,0 +1,3 @@
+.netlify
+.netlify/config.json
+.netlify/config.json/**

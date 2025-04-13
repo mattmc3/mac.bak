@@ -1,0 +1,4 @@
+.config
+.config/psysh
+.config/psysh/config.php
+.config/psysh/config.php/**

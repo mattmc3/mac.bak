@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/org.openemu.OpenEmu.plist
-Library/Preferences/org.openemu.OpenEmu.plist/**
 Library/Application Support
 Library/Application Support/OpenEmu
 Library/Application Support/OpenEmu/**
+Library/Preferences
+Library/Preferences/org.openemu.OpenEmu.plist
+Library/Preferences/org.openemu.OpenEmu.plist/**

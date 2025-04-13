@@ -1,2 +1,3 @@
-.asciinema
-.asciinema/**
+.config
+.config/asciinema
+.config/asciinema/**

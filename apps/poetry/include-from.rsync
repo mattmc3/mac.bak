@@ -1,0 +1,13 @@
+.config
+.config/pypoetry
+.config/pypoetry/config.toml
+.config/pypoetry/config.toml/**
+Library
+Library/Application Support
+Library/Application Support/pypoetry
+Library/Application Support/pypoetry/config.toml
+Library/Application Support/pypoetry/config.toml/**
+Library/Preferences
+Library/Preferences/pypoetry
+Library/Preferences/pypoetry/config.toml
+Library/Preferences/pypoetry/config.toml/**

@@ -1,7 +1,7 @@
+.config
+.config/blender
+.config/blender/**
 Library
 Library/Application Support
 Library/Application Support/Blender
 Library/Application Support/Blender/**
-.config
-.config/blender
-.config/blender/**

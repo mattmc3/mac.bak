@@ -1,0 +1,3 @@
+.sqitch
+.sqitch/sqitch.conf
+.sqitch/sqitch.conf/**

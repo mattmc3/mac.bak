@@ -1,0 +1,7 @@
+.config
+.config/calibre
+.config/calibre/**
+Library
+Library/Preferences
+Library/Preferences/calibre
+Library/Preferences/calibre/**

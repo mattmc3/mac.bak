@@ -1,5 +1,9 @@
 Library
-Library/Application Support
-Library/Application Support/HandBrake
-Library/Application Support/HandBrake/UserPresets.plist
-Library/Application Support/HandBrake/UserPresets.plist/**
+Library/Containers
+Library/Containers/fr.handbrake.HandBrake
+Library/Containers/fr.handbrake.HandBrake/Data
+Library/Containers/fr.handbrake.HandBrake/Data/Library
+Library/Containers/fr.handbrake.HandBrake/Data/Library/Application Support
+Library/Containers/fr.handbrake.HandBrake/Data/Library/Application Support/HandBrake
+Library/Containers/fr.handbrake.HandBrake/Data/Library/Application Support/HandBrake/UserPresets.json
+Library/Containers/fr.handbrake.HandBrake/Data/Library/Application Support/HandBrake/UserPresets.json/**

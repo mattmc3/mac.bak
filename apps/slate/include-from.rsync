@@ -1,7 +1,7 @@
 .slate
-.slate/**
 .slate.js
 .slate.js/**
+.slate/**
 Library
 Library/Application Support
 Library/Application Support/com.slate.Slate

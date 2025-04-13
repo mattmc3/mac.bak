@@ -1,0 +1,4 @@
+.config
+.config/lvim
+.config/lvim/config.lua
+.config/lvim/config.lua/**

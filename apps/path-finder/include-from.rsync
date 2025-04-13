@@ -1,10 +1,7 @@
 Library
+Library/Application Support
+Library/Application Support/Path Finder
+Library/Application Support/Path Finder/**
 Library/Preferences
 Library/Preferences/com.cocoatech.PathFinder.plist
 Library/Preferences/com.cocoatech.PathFinder.plist/**
-Library/Application Support
-Library/Application Support/Path Finder
-Library/Application Support/Path Finder/PlugIns
-Library/Application Support/Path Finder/PlugIns/**
-Library/Application Support/Path Finder/Settings
-Library/Application Support/Path Finder/Settings/**

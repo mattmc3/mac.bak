@@ -1,0 +1,13 @@
+.config
+.config/lazygit
+.config/lazygit/config.yml
+.config/lazygit/config.yml/**
+Library
+Library/Application Support
+Library/Application Support/jesseduffield
+Library/Application Support/jesseduffield/lazygit
+Library/Application Support/jesseduffield/lazygit/config.yml
+Library/Application Support/jesseduffield/lazygit/config.yml/**
+Library/Application Support/lazygit
+Library/Application Support/lazygit/config.yml
+Library/Application Support/lazygit/config.yml/**

@@ -1,0 +1,4 @@
+.config
+.config/neofetch
+.config/neofetch/config.conf
+.config/neofetch/config.conf/**

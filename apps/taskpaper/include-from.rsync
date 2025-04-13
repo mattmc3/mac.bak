@@ -1,7 +1,7 @@
 Library
-Library/Preferences
-Library/Preferences/com.hogbaysoftware.TaskPaper.mac.plist
-Library/Preferences/com.hogbaysoftware.TaskPaper.mac.plist/**
 Library/Application Support
 Library/Application Support/TaskPaper
 Library/Application Support/TaskPaper/**
+Library/Preferences
+Library/Preferences/com.hogbaysoftware.TaskPaper.mac.plist
+Library/Preferences/com.hogbaysoftware.TaskPaper.mac.plist/**

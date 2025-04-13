@@ -1,0 +1,5 @@
+.config
+.config/flake8
+.config/flake8/**
+.flake8
+.flake8/**

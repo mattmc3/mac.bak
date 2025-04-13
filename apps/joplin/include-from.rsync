@@ -1,0 +1,6 @@
+.config
+.config/joplin-desktop
+.config/joplin-desktop/userchrome.css
+.config/joplin-desktop/userchrome.css/**
+.config/joplin-desktop/userstyle.css
+.config/joplin-desktop/userstyle.css/**

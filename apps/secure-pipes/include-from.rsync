@@ -1,4 +1,7 @@
 Library
+Library/Application Support
+Library/Application Support/Secure Pipes
+Library/Application Support/Secure Pipes/**
 Library/Preferences
 Library/Preferences/net.edgeservices.connections.plist
 Library/Preferences/net.edgeservices.connections.plist/**
@@ -6,6 +9,3 @@ Library/Preferences/net.edgeservices.Secure-Pipes.plist
 Library/Preferences/net.edgeservices.Secure-Pipes.plist/**
 Library/Preferences/net.edgeservices.sp-config.plist
 Library/Preferences/net.edgeservices.sp-config.plist/**
-Library/Application Support
-Library/Application Support/Secure Pipes
-Library/Application Support/Secure Pipes/**
